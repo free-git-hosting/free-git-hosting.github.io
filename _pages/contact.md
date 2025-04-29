@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /contact/
-exclude: true
-image: '/images/80.jpg'
+# image: '/images/80.jpg'
 ---
 <div class="form-container">
   {% if site.contact.description %}
