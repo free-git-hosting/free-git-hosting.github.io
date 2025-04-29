@@ -271,5 +271,5 @@ GitHub hosting through GitHub Pages empowers anyone to publish static websites e
 - [GitHub Pages Documentation](https://pages.github.com/)
 - [Jekyll Documentation](https://jekyllrb.com/docs/)
 - [GitHub Help - Custom Domains](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
-- [FreeCodeCamp GitHub Pages Tutorial](https://www.freecodecamp.org/news/search?query=github%20pages)
+- [FreeCodeCamp GitHub Pages Tutorial](https://www.freecodecamp.org/news/gitHub-pages-tutorial/)
 

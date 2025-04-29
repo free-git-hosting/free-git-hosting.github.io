@@ -3,7 +3,7 @@
     <div class="footer-logo">
       <a href="{{ site.baseurl }}/" class="footer-logo__link">
         {% if site.logo %}
-        <img class="logo__image" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
+        <img class="logo__image" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">{{site.title}}
         {% else %}
         {{site.title}}
         {% endif %}
