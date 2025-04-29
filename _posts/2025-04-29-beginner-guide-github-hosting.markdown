@@ -8,7 +8,7 @@ image:
     name: '/images/featured_beginner-guide-github-hosting.webp'
     alt: “Beginner creating a website using GitHub hosting on a modern desktop setup with code editor and browser preview.”
 featured: false
-category: workshops
+
 ---
 
 If you've ever wanted to create a website but found traditional web hosting overwhelming or costly, GitHub hosting may be the solution you've been looking for. This guide is tailored for absolute beginners, breaking down every step to help you launch your first website using GitHub Pages. We’ll explore what GitHub hosting is, how it works, and why it's one of the best ways to get started in web development. No prior coding experience required—just your curiosity and a GitHub account.
