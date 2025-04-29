@@ -1,0 +1,591 @@
+---
+layout: post
+title:  AAAI2021 Spring Symposium on Artificial Intelligence for K-12 Education
+date:   2021-03-22 00:00:00
+image:  '/images/aaai2021sss.jpg'
+tags:   [Workshop, AAAI]
+featured: false
+category: workshops
+---
+
+## UPDATES
+
+
+* <span style="color:red">All the presentations are uploaded on [Youtube](https://www.youtube.com/playlist?list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27) and [Bilibili](https://space.bilibili.com/673434640/channel/detail?cid=176309).</span>.
+
+* Due to the COVID-19 Pandemic, the 2021 Spring Symposium will be held **virtually** on **March 22-23, 2021**.
+* To avoid connectivity issues in real time, we choose to use the **pre-recording option**. Live Q & A is optional. 
+* This year, we have speakers from North America, Asia and Europe. Therefore, we will have **two sessions** on each day (March 22 and March 23) to make sure people from different time zones can join. Specifically, we will have
+  * Session One at
+    * New York 09:00 - 12:00
+    * San Francisco 06:00 - 09:00
+    * London 13:00 - 16:00
+    * Beijing 21:00 - 00:00
+  * Session Two at 
+    * New York 19:00 - 23:00
+    * San Francisco 16:00 - 20:00
+    * London 00:00 - 04:00
+    * Beijing 07:00 - 11:00
+
+* All accepted authors, invited speakers, symposium participants, and other invited attendees should register at [https://aaaiconf.cventevents.com/sss21](https://aaaiconf.cventevents.com/sss21). 
+
+
+
+## Introduction
+
+Technology has transformed over the last few years, turning from futuristic ideas into today’s reality. Artificial intelligence (AI) is one of these transformative technologies that is now achieving great successes in various real-world applications and made our life more convenient and safe. AI is now shaping the way businesses, governments, and educational institutions do things and is making its way into K-12 classrooms, schools and districts across many countries.
+
+In fact, the increasingly digitalized education tools and the popularity of online learning have produced an unprecedented amount of data that provides us with invaluable opportunities for applying AI in K-12 education. Recent years have witnessed growing efforts from AI research community devoted to advancing our education and promising results have been obtained in solving various critical problems in K-12 education. For examples, AI tools are built to ease the workload for teachers. Instead of grading each piece of work individually, which can take up a bulk of extra time, intelligent scoring tools allow teachers the ability to have their students work automatically graded. What's more, various AI based models are trained on massive student behavioral and exercise data to have the ability to take note of a student’s strengths and weaknesses, identifying where they may be struggling. These models can also generate instant feedback to instructors and help them to improve their teaching effectiveness. 
+
+Despite gratifying achievements have demonstrated the great potential and bright development prospect of introducing AI in K-12 education, developing and applying AI technologies to educational practice is fraught with its unique challenges, including, but not limited to, extreme data sparsity, lack of labeled data, and privacy issues. Hence, this symposium will focus on introducing research progress on applying AI to K-12 education and discussing recent advances of handling challenges encountered in AI educational practice. The proposed symposium builds upon our continued efforts ([AAAI'20 workshop](http://ai4ed.cc/workshops/aaai2020), [IJCAI'20 tutorial](http://ai4ed.cc/tutorials/ijcai2020), [KDD'20 tutorial](http://ai4ed.cc/tutorials/kdd2020)) in bringing the AI community members together for the above-mentioned themes. This symposium will bring together AI researchers, learning scientists, educators and policymakers to exchange problems and solutions and build possible collaborations in the future.
+
+
+
+## Symposium Schedule
+
+Day 1 activities will be centered around the theme of how can **AI to empower K-12 education** (in general)? While day 2 activities will focus on two topics of **NLP Innovation in Educational Applications** and **Innovative Industrial AI Applications in Education**.
+
+We outline the tentative schedule for the proposed symposium. All the time slots are in EST.
+
+### March 22 Session One: Artificial Intelligence to Empower K-12 Education
+
+* 08:45 - 09:00 Opening
+* 09:00 - 09:45 **[Keynote Talk]** [AI and the Social Context of Education: I’ll Meet You in the Middle](#ai-and-the-social-context-of-education-ill-meet-you-in-the-middle), Kenneth Frank & Kaitlin Torphy, Michigan State University  
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=2-1RD27F8cU&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=2) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1Vy4y1h7wr)
+* 09:45 - 10:30 **[Keynote Talk]** [Six Challenges for the Future of Artificial Intelligence in Education](#six-challenges-for-the-future-of-artificial-intelligence-in-education), Ryan Baker, University of Pennsylvania
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=6prq8RozKx8&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=3) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1A54y1h7KY)
+* 10:30 - 11:00 **[Invited Talk]** [Enhancing Online Problems Through Instructor-Centered Tools for Randomized Experiments](#enhancing-online-problems-through-instructor-centered-tools-for-randomized-experiments), Joseph Jay Williams, University of Toronto
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=z2WL6uYzrfE&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=4) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV115411w7VC)
+* 11:00 - 11:30 **[Invited Talk]** [Empowering Better Automated Writing Evaluation Systems with The PERSUADE Corpus](#empowering-better-automated-writing-evaluation-systems-with-the-persuade-corpus), Scott Crossley, Georgia State University
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=AETWJWL2M5Q&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=5&t=1s) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1zB4y1P7Tq)
+* 11:30 - 12:00 **[Invited Talk]** [Helping Students Learn to Program with Automated, Data-driven Support](#helping-students-learn-to-program-with-automated-data-driven-support), Thomas Price, North Carolina State University
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=-GWDHkLRn30&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=6) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1Vi4y1P78q)
+* 12:00 - 12:30 **[Invited Talk]** [Intelligent Modeling and Support of Reading Comprehension Processes](#intelligent-modeling-and-support-of-reading-comprehension-processes), Erin Walker, University of Pittsburgh
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=zzbCb7grAKk&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=7) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1cU4y1Y7hz)
+
+### March 22 Session Two: Artificial Intelligence to Empower K-12 Education
+
+* 18:45 - 19:00 Opening
+* 19:00 - 19:45 **[Keynote Talk]** [K-12 Early Warning Systems and Decision Making in Education: Considering Issues of Algorithmic Accuracy and Openness](#k-12-early-warning-systems-and-decision-making-in-education-considering-issues-of-algorithmic-accuracy-and-openness), Alex Bowers, Columbia University
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=Hj7vWt6-OeY&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=8) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1qK4y1T7Kp)
+* 19:45 - 20:30 **[Keynote Talk]** [FACT: An Automated Teaching Assistant in the Zoom Classroom](#fact-an-automated-teaching-assistant-in-the-zoom-classroom), Kurt VanLehn, Arizona State University
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=9rzLIPiT6vo&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=9) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1mA411N7Uz)
+* 20:30 - 21:00 **[Invited Talk]** [Mastery Learning Heuristics: Understanding the Gap Between Research and Practice](#mastery-learning-heuristics-understanding-the-gap-between-research-and-practice), Shayan Doroudi, University of California, Irvine
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=10t1q0XUHYc&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=10) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1654y187m4)
+* 21:00 - 21:30 **[Invited Talk]** [Learning about Learning from Unstructured Classroom Data](#learning-about-learning-from-unstructured-classroom-data), Nigel Bosch, University of Illinois Urbana–Champaign
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=KdXsRIjxeLY&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=11) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1FA411K7ZD)
+* 21:30 - 21:50 **[Paper Presentation]** [Designing Teachable Systems for Intelligent Tutor Authoring](#designing-teachable-systems-for-intelligent-tutor-authoring), Adit Gupta and Christopher MacLellan
+    * Camera Ready [PDF](https://drive.google.com/file/d/1NG0f3Kix8G4gaW0CMdkFjzTMNb6oC4P4/view?usp=sharing)
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=UV7r9yvz5I0&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=11) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1YK4y1N73A)
+* 21:50 - 22:10 **[Paper Presentation]** [Investigating Knowledge Tracing Models using Simulated Students](#investigating-knowledge-tracing-models-using-simulated-students), Qiao Zhang and Christopher MacLellan
+    * Camera Ready [PDF](https://drive.google.com/file/d/1WJ2UowFxeUkIqm4xb3mOPUem6_3h5FDX/view?usp=sharing)
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=a5ssnJp_EYo&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=13) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1kU4y1a7P2)
+* 22:10 - 22:30 **[Paper Presentation]** [Using Transformers to Provide Teachers with Personalized Feedback on their Classroom Discourse: The TalkMoves Application](#using-transformers-to-provide-teachers-with-personalized-feedback-on-their-classroom-discourse-the-talkmoves-application), Abhijit Suresh, Jennifer Jacobs, Vivian Lai, Chenhao Tan, Wayne Ward, James H. Martin and Tamara Sumner
+    * Camera Ready [PDF](https://drive.google.com/file/d/1cDSNPSpNO2eirRPXkXUN-lhvjVlZrWkl/view?usp=sharing)
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=PVlmRbV_3qk&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=29) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1tV411n7vt)
+* 22:30 - 22:50 **[Paper Presentation]** [Artificial Agents to Help Address the U.S. K–12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth](#artificial-agents-to-help-address-the-us-k–12-math-gap-between-economically-disadvantaged-vs-advantaged-youth), Selmer Bringsjord, John Angel, Naveen Sundar Govindarajulu and Michael Giancola
+    * Camera Ready [PDF](https://drive.google.com/file/d/19VD0iz2vdgr1NvzZ63TU2o5ZlisghUUq/view?usp=sharing)
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=d0RO4oZX9uw&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=30) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV16v41187MW)
+
+
+
+
+
+
+
+### March 23 Session One: NLP Innovation in Educational Applications
+
+* 08:45 - 09:00 Opening
+* 09:00 - 09:45 **[Keynote Talk]** [Efficiency, Efficacy, and Equity: Leveraging Ethical AI to Revolutionize Education](#efficiency-efficacy-and-equity-leveraging-ethical-ai-to-revolutionize-education), Kara McWilliams, ETS AI Research Labs
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=EviEWw8eFLY&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=14&t=6s) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1JV411e7NJ)
+* 09:45 - 10:15 **[Invited Talk]** [Towards Automated Generation of Personalized Pedagogical Interventions in Intelligent Tutoring Systems](#towards-automated-generation-of-personalized-pedagogical-interventions-in-intelligent-tutoring-systems), Ekaterina Kochmar, University of Cambridge
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=7BgXI_15PPQ&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=28&t=8s) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1VZ4y1A7E7)
+* 10:15 - 10:45 **[Invited Talk]** [Transfer Learning for Language Assessment and Feedback](#transfer-learning-for-language-assessment-and-feedback), Helen Yannakoudakis, King's College London
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=bWtoB27DAO4&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=15) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1z5411w7vs)
+* 10:45 - 11:30 **[Keynote Talk]** [Using Machine Learning to Better Understand Human Learning](#using-machine-learning-to-better-understand-human-learning), Mehran Sahami, Stanford University
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=bEtI4NZ2Ik4&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=16) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1aK4y1N7XJ)
+* 11:00 - 11:30 **[Invited Talk]** [AI-Driven Robot for Education](#ai-driven-robot-for-education), Yu Lu, Beijing Normal University
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=8KdnmlMJ1gI&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=17) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1ch411D7iQ)
+* 11:30 - 12:00 **[Invited Talk]** [GodEye: An Efficient and Practical AI-based System Designing for Improving the Course Quality of K12 Online 1 on 1 Classes](#godeye-an-efficient-and-practical-ai-based-system-designing-for-improving-the-course-quality-of-k12-online-1-on-1-classes), Hang Li, TAL Education Group
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=lm_HZ8ObJrc&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=18) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1wv41187Sv)
+* 12:00 - 12:30 **[Invited Talk]** [Intelligent Dialogue Agents to Support K-12 Learning](#intelligent-dialogue-agents-to-support-k-12-learning), Kristy Boyer, University of Florida
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=NyQ9L9qD9NE&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=19) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1TU4y1Y7uF)
+
+### March 23 Session Two: Innovative Industrial AI Applications in Education
+
+* 18:45 - 19:00 Opening
+* 19:00 - 19:45 **[Keynote Talk]** [Digital-first Assessments in a Computational Psychometrics Framework](#digital-first-assessments-in-a-computational-psychometrics-framework), Alina von Davier, Duolingo
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=V96xliEod6Q&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=20) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1By4y1t7mr)
+* 19:45 - 20:30 **[Keynote Talk]** [Innovative Adaptive Instructional Solutions](#innovative-adaptive-instructional-solutions), Robert Sottilare, Soar Technology
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=3BaiPJsa-Jg&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=21) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1nf4y1x7zZ)
+* 20:30 - 21:00 **[Invited Talk]** [Child Specific Voice Technology in Education](#child-specific-voice-technology-in-education), Patricia Scanlon, SoapBox Labs
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=okh8IdCu7mk&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=22) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1oy4y1t7oZ)
+* 21:00 - 21:30 **[Invited Talk]** [Smart Path to Future Success](#smart-path-to-future-success), Susan Liu, TAL Education Group
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=oR3Z6jlc9pg&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=26) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1Sp4y1b7EV)
+* 21:30 - 22:00 **[Invited Talk]** [Efficiency and Revolution: How AI Will Empower K-12 Education](#efficiency-and-revolution-how-ai-will-empower-k-12-education), Qianying Wang, Lenovo Group
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=6rZBnZ2fu14&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=23) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1k5411w73v)
+* 22:00 - 22:30 **[Invited Talk]** [OLAF: A Multiagent Architecture Framework for Adaptive Instruction Systems](#olaf-a-multiagent-architecture-framework-for-adaptive-instruction-systems), Richard Tong, Yixue Squirrel AI Learning
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=T-xCl0_Yx-U&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=24) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV18b4y1Q7jz)
+* 22:30 - 23:00 **[Invited Talk]** [Next Generation eBooks: Dynamic Data-rich Learning with PeBL](#next-generation-ebooks-dynamic-data-rich-learning-with-pebl), Elliot Robson, Eduworks Corporation
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=HYS4SxAwdsQ&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=25) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1TA411K7fy)
+* 23:00 - 23:20 **[Paper Presentation]** [Classifying Documents to Multiple Readability levels](#classifying-documents-to-multiple-readability-levels), Wejdan Alkaldi and Diana Inkpen
+    * Camera Ready [PDF](https://drive.google.com/file/d/129dSQJvQfncnlyYL4d5d5CKC50Aq0wJb/view?usp=sharing)
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=CuYseydxdC8&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=27&t=4s) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1oi4y1P7yH)
+
+<!-- ## Symposium Description
+
+### Topics
+
+We encourage keynote speeches on a broad range of AI domains for K-12 education. Topics of interest include (in no particular order) but are not limited to following:
+
+* Emerging technologies in K-12 education
+* Evaluation of K-12 education technologies
+* Immersive learning and multimedia applications
+* Implications of big data in K-12 education
+* Self-adaptive learning
+* Individual and personalized K-12 education
+* Intelligent learning systems
+* Intelligent tutoring and monitoring systems
+* Automatic assessment in K-12 education
+* Automated grading of assignments
+* Automated feedback and recommendations
+* Big data analytics for K-12 education
+* Analysis of communities of learning
+* Computer-aided assessment
+* Course development techniques
+* Data analytics & big data in K-12 education
+* Mining and web mining in K-12 education
+* Learning tools experiences and cases of study
+* Social media in K-12 education
+* Smart K-12 education
+* Digital libraries for learning
+* K-12 education analytic approaches, methods, and tools
+* Knowledge management for learning
+* Learning analytics and K-12 educational data mining
+* Learning technology for lifelong learning
+* Tracking learning activities
+* Uses of multimedia for K-12 education
+* Wearable computing technology in e-learning
+* Smart classroom
+* Dropout prediction
+* Knowledge tracing
+
+### Submissions
+
+The symposium solicits paper submissions from participants (2–6 pages). Abstracts of the following flavors will be sought: 
+
+1. research ideas
+2. case studies (or deployed projects)
+3. review papers
+4. best practice papers
+5. lessons learned. 
+
+The format is the standard double-column AAAI Proceedings Style and *single blind*. The author kit can be found at [https://www.aaai.org/Publications/Templates/AuthorKit21.zip](https://www.aaai.org/Publications/Templates/AuthorKit21.zip).
+
+We will encourage submissions of works-in-progress and extended abstracts, in addition to full length papers. All submissions will be peer-reviewed. Some will be selected for spotlight talks, and some for the poster session. 
+
+The submission website is at [https://easychair.org/conferences/?conf=sss21](https://easychair.org/conferences/?conf=sss21). For more questions about the workshop and submissions, please send email to *liuzitao@100tal.com*.
+
+## Important Dates
+
+* **December 15, 2020**: Workshop paper submission due (23:59, Pacific Standard Time)
+* **December 31, 2020**: Notifications of acceptance
+* **March 22–24, 2021**: Symposium Date -->
+
+
+## Talk Details
+
+
+> ### AI and the Social Context of Education: I’ll Meet You in the Middle
+> 
+> <cite>Dr. Kenneth Frank & Dr. Kaitlin Torphy, Michigan State University</cite>
+
+{% highlight html %}
+Abstract: The past 3 decades have seen accelerating applications of AI in educational contexts.  Many of these applications have yielded important contributions to the fundamental production process of learning by drawing on existing disciplinary knowledge. For example, intelligent tutors informed by the learning sciences provide customized feedback and lessons to students based on their current state of knowledge and cognitive abilities.  Similarly, natural language interpreters informed by psychometrics have broadened the types of assessment that can be used to give feedback to teachers and policymakers.  But less of the AI potential has been realized in the realm of the social processes in which learning is embedded. For example, the new Institute for Student-AI Teaming (iSAT) housed at the University of Colorado Boulder is focused on how AI can support student to student interactions, which will be critical for understanding student motivation and learning.  Here I will also call attention to how AI could be used to understand the teacher’s social context, such as through the interactions in a professional learning community. The success of AI, like other technologies, will depend on our understanding of the ecosystem into which AI is entering, and in particular the teacher’s role in that ecosystem. In this sense as a sociologist I see classroom interaction as a middle ground social space mediating between the social realm of the teachers and that of the students – in this talk I look forward to meeting you in that middle ground.
+
+Bio: Kenneth Frank received his Ph.D. in measurement, evaluation and statistical analysis from the School of Education at the University of Chicago in 1993.  He is a member of the National Academy of Education and MSU Foundation professor of Sociometrics, professor in Counseling, Educational Psychology and Special Education; and adjunct (by courtesy) in Fisheries and Wildlife and Sociology at Michigan State University.  His substantive interests include the study of schools as organizations, social structures of students and teachers and school decision-making, and social capital.  His substantive areas are linked to several methodological interests: social network analysis, sensitivity analysis and causal inference (http://konfound-it.com), and multi-level models. His publications include quantitative methods for representing relations among actors in a social network, robustness indices for sensitivity analysis for causal inferences, and the effects of social capital in schools, natural resource management, and other social contexts.  Dr. Frank’s current projects include how beginning teachers’ networks affect their response to the Common Core; how schools respond to increases in core curricular requirements; school governance; teachers’ use of social media (https://www.teachersinsocialmedia.com/); implementation of the Carbon-Time science curriculum (http://carbontime.bscs.org/); epistemic network analysis (http://www.epistemicnetwork.org/); social network intervention in natural resources and construction management; complex decision-making in health care; and the diffusion of knowledge about climate change.
+
+
+Kaitlin Torphy, Ph.D. is the Lead Researcher and Founder of the Teachers in Social Media Project at Michigan State University. This project considers the intersection of cloud to class, nature of resources within virtual resource pools, and implications for equity as educational spaces grow increasingly connected. Dr. Torphy conceptualizes the emergence of a teacherpreneurial guild in which teachers turn to one another for instructional content and resources. She has expertise in teachers’ engagement across virtual platforms, teachers’ physical and virtual social networks, and education policy reform. Most recently, Dr. Torphy was the PI on a grant with DARPA examining social media diffusion across Pinterest. She and colleagues convened an American Education Research Association conference in October 2018 at Michigan State University on social media and education with scholars across the country. She has published work on charter school impacts, curricular reform, teachers’ social networks, and presented work regarding teachers’ engagement within social media at the national and international level. She is the editor and an author of four special issues on social media and education. Her other work examines diffusion of sustainable practices across social networks within The Nature Conservancy. Dr. Torphy earned a Ph.D. in education policy, a specialization in the economics of education from Michigan State University in 2014 and is a Teach for America alumni and former Chicago Public Schools teacher.
+{% endhighlight %}
+
+
+
+> ### Six Challenges for the Future of Artificial Intelligence in Education
+> 
+> <cite>Dr. Ryan Baker, University of Pennsylvania</cite>
+
+{% highlight html %}
+Abstract: Artificial intelligence has had a positive impact on education. Today we have accurate models of constructs many didn’t think we could model, dashboards and interventions and (some) evidence they work, and scaled solutions that are being used to change student outcomes. As a field, we have solved some challenging problems. So, what’s next? In this talk, I’ll discuss a few hard problems that could block AI in education from reaching its full potential; some of the big goals I think we can strive to achieve; some of the grand challenges we will need to — and I think can — solve; and perhaps most importantly — how we’ll know if we’ve gotten there. 
+
+Bio: Ryan Baker is Associate Professor at the University of Pennsylvania, and Director of the Penn Center for Learning Analytics. His lab conducts research on engagement and robust learning within online and blended learning, seeking to find actionable indicators that can be used today but which predict future student outcomes. Baker has developed models that can automatically detect student engagement in over a dozen online learning environments, and has led the development of an observational protocol and app for field observation of student engagement that has been used by over 160 researchers in 6 countries. Predictive analytics models he helped develop have been used to benefit over a million students, over a hundred thousand people have taken MOOCs he ran, and he has coordinated longitudinal studies that spanned over a decade. He was the founding president of the International Educational Data Mining Society, is currently serving as Editor of the journal Computer-Based Learning in Context, is Associate Editor of two journals, was the first technical director of the Pittsburgh Science of Learning Center DataShop, and currently serves as Co-Director of the MOOC Replication Framework (MORF). Baker has co-authored published papers with over 300 colleagues. 
+{% endhighlight %}
+
+
+> ### Enhancing Online Problems Through Instructor-Centered Tools for Randomized Experiments
+> 
+> <cite>Dr. Joseph Jay Williams, University of Toronto</cite>
+
+{% highlight html %}
+Abstract: Digital educational resources could enable the use of randomized experiments to answer pedagogical questions that instructors care about, taking academic research out of the laboratory and into the classroom. We take an instructor- centered approach to designing tools for experimentation that lower the barriers for instructors to conduct experiments. We explore this approach through DynamicProblem, a proof-of- concept system for experimentation on components of digital problems, which provides interfaces for authoring of experiments on explanations, hints, feedback messages, and learning tips. To rapidly turn data from experiments into practical improvements, the system uses an interpretable machine learning algorithm to analyze students’ ratings of which conditions are helpful, and present conditions to future students in proportion to the evidence they are higher rated. We evaluated the system by collaboratively deploying experiments in the courses of three mathematics instructors. They reported benefits in reflecting on their pedagogy, and having a new method for improving online problems for future students.
+
+Bio: Joseph Jay Williams is an Assistant Professor in Computer Science (and a Vector Institute Faculty Affiliate, with courtesy appointments in Statistics & Psychology) at the University of Toronto, leading the Intelligent Adaptive Interventions research group. He was previously an Assistant Professor at the National University of Singapore's School of Computing in the department of Information Systems & Analytics, a Research Fellow at Harvard's Office of the Vice Provost for Advances in Learning, and a member of the Intelligent Interactive Systems Group in Computer Science. He completed a postdoc at Stanford University in Summer 2014, working with the Office of the Vice Provost for Online Learning and the Open Learning Initiative. He received his PhD from UC Berkeley in Computational Cognitive Science (with Tom Griffiths and Tania Lombrozo), where he applied Bayesian statistics and machine learning to model how people learn and reason. He received his B.Sc. from University of Toronto in Cognitive Science, Artificial Intelligence and Mathematics, and is originally from Trinidad and Tobago. More information about the Intelligent Adaptive Intervention group's research and papers is at www.josephjaywilliams.com.
+{% endhighlight %}
+
+
+> ### Empowering better automated writing evaluation systems with the PERSUADE corpus
+> 
+> <cite>Dr. Scott Crossley, Georgia State University</cite>
+
+{% highlight html %}
+Abstract: This talk introduces the Persuasive Essays for Rating, Selecting, and Understanding Argumentative and Discourse Elements (PERSUADE) corpus which was developed to spur the creation of open-source algorithms that identify and evaluate argumentative and discourse elements in 6th-12th grade student writing. The corpus will not only allow for large-scale educational data mining related to categorization of discourse and argumentation elements, but also investigations into relationships among these elements, the quality of these elements and the links between these elements, their relationships, their quality, and holistic scores of essay quality. The corpus was also developed to be nationally representative of the student population found in the United States in relation to socio-economic status and race/ethnicity. Because the corpus contains extensive meta-data, any algorithms developed using the corpus can be assessed for potential bias. As well, the meta-data allows for extensive data mining related to differential student populations and writing assessment and development.
+
+Bio: Dr. Scott Crossley is a Professor of Applied Linguistics and Learning Sciences at Georgia State University. His primary research focus is on natural language processing and the application of computational tools and machine learning algorithms in learning analytics. His main interest area is the development and use of natural language processing tools in assessing writing quality and text difficulty.
+{% endhighlight %}
+
+
+> ### Helping Students Learn to Program with Automated, Data-driven Support
+> 
+> <cite>Dr. Thomas Price, North Carolina State University</cite>
+
+{% highlight html %}
+Abstract: Computer Science (CS) courses are increasingly common in K-12 schools, reflecting growing demand for computational skills across many fields. However, programming is a challenging skill to learn, and teachers are not always available to support students that are struggling. In this talk, I will demonstrate how we can address this challenge by building programming environments that support novice learners automatically with help features, like hints, feedback and examples, that adapt to a student's current code. I will highlight how programming log data can be used to generate this support automatically, as well as to predict student learning outcomes, and to inform curricular design. I will discuss open questions and challenges in this research space, and exciting opportunities to support the next generation of K-12 CS learners.
+
+Bio: Thomas Price is an Assistant Professor of Computer Science at North Carolina State University. His primary research goal is to develop learning environments that automatically support students through AI and data-driven help features. His work has focused on the domain of computing education, where he has developed techniques for automatically generating programming hints and feedback for students in real-time by leveraging student data. His HINTS lab focuses on supporting students working in creative, open-ended and block-based learning contexts, leading to novel data-driven programming support, including adaptive examples, subgoal feedback, and models to predict student outcomes.
+{% endhighlight %}
+
+
+> ### Intelligent Modeling and Support of Reading Comprehension Processes
+> 
+> <cite>Dr. Erin Walker, University of Pittsburgh</cite>
+
+{% highlight html %}
+Abstract: Reading comprehension is a critical skill for interpreting and learning from narrative and instructional texts in any subject domain. However, it tends to be more challenging to model and support using technologies like intelligent tutoring systems (ITSs) than well-defined skills in math and science. In this talk, we will discuss strategies for making thinking visible during reading and for mining log data that enable the development of ITSs for reading comprehension. We will use two projects as examples of this approach. In the first, students made concept maps as they read a text. We used the log data they generated to extract sequences of productive and unproductive concept mapping strategies and to give students adaptive feedback on their strategies. In the second, students read a digital storybook, and moved images to simulate the content of the sentences of the story. We demonstrated how we can use their log data to make inferences about their understanding. We close with recommendations for future work within this space of automatically supporting reading comprehension.
+
+Bio: Erin Walker is an Associate Professor at the University of Pittsburgh with a joint appointment in the School of Computing and Information and the Learning Research and Development Center. Her research focuses on the application of intelligent tutoring technologies to social learning environments (both human-human and human-robot) and to modeling cognitive states during learning. It has resulted in approximately 45 peer reviewed publications, including 5 best paper awards or nominations at AIED, CSCL, and Creativity and Cognition. 
+{% endhighlight %}
+
+
+> ### K-12 Early Warning Systems and Decision Making in Education: Considering Issues of Algorithmic Accuracy and Openness
+> 
+> <cite>Dr. Alex Bowers, Columbia University</cite>
+
+{% highlight html %}
+Abstract: In K-12 education, early warning systems and early warning indicators (EWS/EWI) to predict overall student outcomes are a central component of modern school data analytics dashboards and decision-making. Yet, the research literature in the domain has shown that 1) most EWIs are not accurate, misidentifying 40% or more of students, 2) recent machine learned EWIs lack generalizability across schooling systems, 3) current EWIs are often not benchmarked for accuracy, 4) and there is a recent trend in which algorithms across this domain are rarely open access and public, despite being paid for by the taxpayer. In this talk, Alex J. Bowers will discuss his research on EWS/EWI in K-12 education, focusing on issues of algorithmic accuracy, openness, the predictive validity of longitudinal non-cumulative grade point average, and the emerging domain of Education Leadership Data Analytics (ELDA) which brings together decision-making, evidence-based improvement cycles, and data science in schooling systems.
+
+Bio: Alex J. Bowers is an Associate Professor of Education Leadership at Teachers College, Columbia University, where he works to help school leaders use the data that they already collect in schools in more effective ways to help direct the limited resources of schools and districts to specific student needs. His research focuses on the intersection of effective school and district leadership, organization and HR, data driven decision making, student grades and test scores, student persistence and dropouts. His work also considers the influence of school finance, facilities, and technology on student achievement. He studies these areas through the application of Education Leadership Data Analytics (ELDA), which is at the intersection of education leadership, evidence-based improvement cycles, and data science.
+{% endhighlight %}
+
+
+> ### FACT: An automated teaching assistant in the Zoom classroom
+> 
+> <cite>Dr. Kurt VanLehn, Arizona State University</cite>
+
+{% highlight html %}
+Abstract: When the pandemic forced middle school classes to be conducted remotely using synchronous video conferencing (e.g., Zoom), it was not clear that classroom orchestration systems designed for ordinary, face to face classrooms could still help teachers teach. This talk presents observations from the use of one such system in 9 middle school math classes. Our FACT system was designed for instructional activities done in small groups with paper cards and posters. Teachers had stopped using such activities when their classes became remote. FACT enabled them to use them again. However, each small group met in its own breakout room. Although FACT is an automated teaching assistant in that it has the intelligence to partially understand students’ errors and their collaboration (or lack thereof), teachers and students seems to ignore most of its help as they struggled with the extra load of managing breakout rooms. The talk’s main results are simply a list of informally derived observations about what worked and didn’t work. 
+
+Bio: Kurt VanLehn is the Diane and Gary Tooker Chair for Effective Education in Science, Technology, Engineering and Math in the Ira A. Fulton Schools of Engineering at Arizona State University. He received a Ph. D. from MIT in 1983 in Computer Science, was a post-doc at BBN and Xerox PARC, joined the faculty of Carnegie-Mellon University in 1985, moved to the University of Pittsburgh in 1990 and joined ASU in 2008. He founded and co-directed two large NSF research centers (Circle; the Pittsburgh Science of Learning Center). He has published over 125 peer-reviewed publications, is a fellow in the Cognitive Science Society, and is on the editorial boards of Cognition and Instruction and the International Journal of Artificial Intelligence in Education. Dr. VanLehn's research focuses on intelligent tutoring systems, classroom orchestration systems, and other intelligent interactive instructional technology.
+{% endhighlight %}
+
+
+> ### Mastery Learning Heuristics: Understanding the Gap Between Research and Practice
+> 
+> <cite>Dr. Shayan Doroudi, University of California, Irvine</cite>
+
+{% highlight html %}
+Abstract: Over the past two decades, researchers have continuously developed new ways to conduct knowledge tracing, a technique that underpins algorithmic approaches to mastery learning in education. However, many state-of-the-art learning platforms that are used by millions of students each year, use heuristics—as opposed to data-driven algorithms—to assess mastery. Why is there such a gap between research and practice when it comes to mastery learning? In this talk, I show that two mastery learning heuristics can actually be reinterpreted as model-based algorithms. Specifically, I show that they can be viewed as optimal policies under variants of the popular Bayesian knowledge tracing (BKT) model. By analyzing the assumptions made by these models, we can discuss whether using these heuristics in practice is reasonable. I claim that one of these heuristics (a variant of the heuristic used by ALEKS) seems reasonable because (a) it is easy to understand, (b) makes weaker assumptions about how students learn than the BKT model, and (c) seems to perform favorably in simulations. Moreover, this heuristic establishes a connection to the change point detection literature in statistics, which, to my knowledge, has not been connected to mastery learning previously.
+
+Bio: Shayan Doroudi is an assistant professor at the University of California, Irvine School of Education and (by courtesy) Department of Informatics. His research is at the intersection of the learning sciences, educational technology, and educational data science. He is particularly interested in studying the prospects and limitations of data-driven algorithms in learning technologies, including lessons that can be drawn from the rich history of educational technology.
+{% endhighlight %}
+
+
+> ### Learning about Learning from Unstructured Classroom Data
+> 
+> <cite>Dr. Nigel Bosch, University of Illinois Urbana–Champaign</cite>
+
+{% highlight html %}
+Abstract: Researchers collect large amounts of unstructured, unlabeled data in classrooms for ethnographic or other fine-grained analyses. Such data also provide a rich, if challenging, source of knowledge that can be mined with AI methods. I will discuss two projects that exemplify this computational approach to analyzing classroom data that were originally collected with very different analyses in mind. In one project, researchers recorded videos of secondary school math classrooms to explore research questions via expert video coding. We developed computer vision methods to analyze these videos at a larger scale and thus answer new research questions. In the second project, researchers recorded audio interviews with secondary school students who described their experiences learning with a computer-based learning environment for natural science topics. We reanalyzed transcripts of these interviews via natural language processing methods to answer research questions related to students' expressions of metacognition. Through these projects, I will illustrate the need for adapting AI methods to mine useful information from data that were not originally collected with such analyses in mind. I will also highlight the value of doing so to enable novel research in collaboration with researchers taking quite different approaches to the same data.
+
+Bio: Nigel Bosch is an Assistant Professor in the School of Information Sciences and the Department of Educational Psychology at the University of Illinois Urbana–Champaign. His work primarily concerns machine learning, algorithmic fairness, and human–computer interaction, especially in educational contexts. His current projects in these areas have been funded by the National Science Foundation (NSF) and the Institute of Education Sciences (IES).
+{% endhighlight %}
+
+
+
+> ### Designing Teachable Systems for Intelligent Tutor Authoring
+> 
+> <cite>Adit Gupta and Christopher MacLellan</cite>
+
+{% highlight html %}
+Abstract: Intelligent tutoring systems (ITS) consistently improve students’ educational outcomes when used alone or in combination with traditional instruction (MacLellan et al. 2018). One major barrier to the wider use of AI tutoring systems is that they are non-trivial to build, requiring both time and expertise. Typically, authoring a tutor takes 200-300 hours of developer time to produce an hour of instruction time (Aleven et al. 2009; Weitekamp, Harpstead, and Koedinger 2020). Existing authoring methods, including Cognitive Tutor Authoring Tool’s (CTAT) Example Tracing and SimStudent’s Authoring by Tutoring approaches, let authors create ITSs quicker than traditional approaches, such as hand program- ming. While Example Tracing and Authoring by Tutoring re- duce the time and expertise required to create an ITS, such techniques do not allow humans to teach AI technologies in ways that are natural to humans. In this paper, we propose a research plan based on Natural Training Interactions (NTI) framework (MacLellan et al. 2018) that aims to create more human-centered and efficient tutor authoring tools. We pro- pose dual-sided, restricted-perception Wizard-of-Oz (WoZ) experiments, a novel variant of commonly used WoZ experiments, to prototype teachable AI technologies for tutor authoring. We engineered the NTI testbed to allow novel tasks to be studied in WoZ experiments without having to start from scratch for each experiment. Lastly, we propose three research questions that we believe will help us understand how to create teachable AI technology to power tutoring systems. The NTI framework aims to produce teachable agents that can be used by teachers and other non-programmers to naturally and efficiently author ITSs.
+
+{% endhighlight %}
+
+
+
+> ### Investigating Knowledge Tracing Models using Simulated Students
+> 
+> <cite>Qiao Zhang and Christopher MacLellan</cite>
+
+{% highlight html %}
+Abstract: Intelligent Tutoring Systems (ITS) are widely applied in K-12 education to help students to learn and master skills. Knowledge tracing algorithms are embedded in the tutors to keep track of what students know and do not know, in order to better focus practice. While knowledge tracing models have been extensively studied in offline settings, very little work has explored their use in online settings. This is primarily because conducting experiments to evaluate and select knowledge tracing models in classroom settings is expensive. We explore the idea that machine learning models that simulated students might fill this gap. We conduct experiments using such agents generated by Apprentice Learner (AL) Architecture to investigate the online use of different knowledge tracing models (Bayesian Knowledge Tracing and the Streak model). We were able to successfully A/B test these different approaches using simulated students. An analysis of our experimental results revealed an error in the implementation of one of our knowledge tracing models that was not identified in our previous work, suggesting AL agents provide a practical means of evaluating knowledge tracing models prior to more costly classroom deployments. Additionally, our analysis found that there is a positive correlation between the model parameters achieved from human data and the parameters obtained from simulated learners. This finding suggests that it might be possible to initialize the parameters for knowledge tracing models using simulated data when no human-student data is yet available.
+{% endhighlight %}
+
+
+> ### Using Transformers to Provide Teachers with Personalized Feedback on their Classroom Discourse: The TalkMoves Application
+> 
+> <cite>Abhijit Suresh, Jennifer Jacobs, Vivian Lai, Chenhao Tan, Wayne Ward, James H. Martin and Tamara Sumner</cite>
+
+{% highlight html %}
+Abstract: TalkMoves is an innovative application designed to support K-12 mathematics teachers to reflect on, and continuously improve their instructional practices. This application combines state-of-the-art natural language processing capabilities with automated speech recognition to automatically analyze classroom recordings and provide teachers with personalized feedback on their use of specific types of discourse aimed at broadening and deepening classroom conversations about mathematics. These specific discourse strategies are referred to as “talk moves” within the mathematics education community and prior research has documented the ways in which systematic use of these discourse strategies can positively impact student engagement and learning. In this article, we describe the TalkMoves application’s cloud-based infrastructure for managing and processing classroom recordings, and its interface for providing teachers with feedback on their use of talk moves during individual teaching episodes. We present the series of model architectures we developed, and the studies we conducted, to develop our best-performing, transformer-based model (F1 = 79.3\%). We also discuss several technical challenges that need to be addressed when working with real-world speech and language data from noisy K-12 classrooms.
+{% endhighlight %}
+
+
+> ### Artificial Agents to Help Address the U.S. K–12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth
+> 
+> <cite>Selmer Bringsjord, John Angel, Naveen Sundar Govindarajulu and Michael Giancola</cite>
+
+{% highlight html %}
+Abstract: Proficiency in math among U.S. pre-college students is overall stunningly low, as shown by reliable and long-established empirical data; this is especially true for students in lower- socioeconomic levels. We herein present some of the data in question; explain the math tests that generate said data; encapsulate the three parts of the particular paradigm we bring to bear to address the crisis; describe in a bit more detail how the artificial agents in this paradigm operate; make a few remarks regarding related work; anticipate and rebut two inevitable objections; and wrap up with comments regarding next steps.
+{% endhighlight %}
+
+
+
+> ### Efficiency, Efficacy, and Equity: Leveraging Ethical AI to Revolutionize Education
+> 
+> <cite>Dr. Kara McWilliams, ETS AI Research Labs</cite>
+
+{% highlight html %}
+Abstract: AI has the potential to transform how learners engage with instructional content, connect with educators, and learn from one another. Advances in technology over the past decade, paired with the evolution of learning sciences has given us keen insight into how people learn and how they might meet their goals most efficiently and effectively. Still, AI remains in its infancy and we continue to discover what learners and educators need and how to deliver it to them meaningfully and ethically. It’s important that the field align on foundational principles of how we research and develop technology-enhanced learning solutions so that we continue to work toward AI for good. 
+
+In this talk I will discuss three foundational principles of the application of AI to educational technology. The first is that AI is assistive to offer learners and their support networks efficiencies that personalize the educational experience so they can meet their goals. Second, that AI scientists and developers have the responsibility to demonstrate evidence of what works, for whom, and why both to build trust among users and to drive the field forward. And third, that AI be leveraged for good, with equity in education as cornerstone to any research and development efforts. In this talk I will unpack these principles, offer examples of how we build on them in the ETS AI Research Labs, and share best practices that colleagues in the field might consider replicating in their R & D efforts.
+
+Bio: Dr. Kara McWilliams is the General Manager of the ETS AI Research Laboratories. Kara leads research and development efforts across three AI Labs – The Natural Language Processing Lab, the Personalized Learning and Assessment Lab, and the Language Learning, Teaching, and Assessment Lab. Her vision in the labs is the development of solutions that are research-based, user-obsessed, and technology-enabled. Most of Kara’s work has focused on how to understand user needs from the perspective of their values, beliefs, and experiences and merge the research on how people learn most effectively with the application of innovative technology. She has conducted extensive work on the efficacy of educational technology, ethical use of AI, and communicating both to users in meaningful ways. Kara holds a doctorate in Educational Research, Measurement and Evaluation and a master’s degree in Curriculum & Instruction from Boston College. 
+{% endhighlight %}
+
+
+> ### Towards Automated Generation of Personalized Pedagogical
+Interventions in Intelligent Tutoring Systems
+> 
+> <cite>Dr. Ekaterina Kochmar, University of Cambridge</cite>
+
+{% highlight html %}
+Abstract: Intelligent tutoring systems (ITS) are highly effective at promoting learning as compared to other computer-based instructional approaches. Their particular strengths lie in their ability to mimic personalized and interactive tutoring in a computer-based environment, providing students with step-by-step guidance during problem solving, tracking students’ skills and knowledge development, and selecting problems on an individual basis. Yet, many ITS rely heavily on expert design and hand-crafted rules, which makes them difficult to build and transfer across domains, and limits their potential efficacy. In this talk, I will overview data-driven methods of automated feedback generation in a large-scale ITS and discuss how personalization of feedback can lead to improvements in student learning outcomes. Specifically, I will show how machine learning approaches and natural language processing techniques can be used to provide students with a variety of personalized pedagogical interventions. Such automated personalized interventions take individual needs of students into account, while alleviating the need for expert intervention and design of hand-crafted rules. I will demonstrate that personalized feedback leads to improved learning outcomes in practice, and I will overview experiments with our personalized feedback model in Korbit, a large-scale dialogue-based ITS with over 15,000 students launched in 2019. The results of the conducted experiments show that the automated, data-driven, personalized feedback leads to a significant overall improvement in student learning outcomes and substantial improvements in the subjective evaluation of the feedback.
+
+Bio: Ekaterina Kochmar is an Assistant Professor at the University of Bath, where she conducts research at the intersection of artificial intelligence, natural language processing and intelligent tutoring systems. Prior to that, she has been working as a post-doctoral researcher at the ALTA (Automated Language Teaching and Assessment) Institute, University of Cambridge, focusing on the development of educational applications for second language learners. Her research contributed to the building of Read & Improve, a readability tool for non-native readers of English. Ekaterina is also a co-founder and the chief scientific officer of Korbit AI, focusing on building an AI-powered, large-scale, open-domain, dialogue-based tutoring system capable of providing learners with high-quality, interactive and personalized education in STEM subjects. Ekaterina holds a PhD in Natural Language Processing and an MPhil in Advanced Computer Science from the University of Cambridge, an MA degree in Computational Linguistics from the University of Tübingen and a diploma in Applied Linguistics from St. Petersburg State University. She is a secretary of the Special Interest Group on Building Educational Applications (SIGEDU) of the Association for Computational Linguistics (ACL).
+{% endhighlight %}
+
+
+> ### Transfer Learning for Language Assessment and Feedback
+> 
+> <cite>Dr. Helen Yannakoudakis, King's College London</cite>
+
+{% highlight html %}
+Abstract: In this talk, I will describe our development of state of the art deep learning models for automated language assessment and feedback. Given the richness of learning strategies for acquiring domain specific knowledge, I will present multi-task and representation learning approaches that allow us to learn from relatively small amounts of learner data, cover a larger space of possible meanings, and enable better generalisation. I will discuss the application of such approaches to written and spoken language assessment as well as grammatical error detection. I will conclude with two new resources we released: CWEB, a new benchmark for grammatical error correction that presents existing systems with two forms of drift — covariate shift and label bias; and TSCC, a teacher—student chatroom corpus consisting of online one-to-one conversations between teachers and learners, manually annotated using a rich set of taxonomies. 
+
+Bio: Helen Yannakoudakis is an Assistant Professor at the Dept. of Informatics, King's College London, and a Visiting Researcher at the Dept. of Computer Science and Technology, University of Cambridge. Helen's research interests include transfer learning, few-shot learning, continual learning, and multilingual NLP, as well as real-world applications such as automated language teaching and assessment, abusive language detection, emotion detection, and misinformation. Among others, she has developed models for automatically assessing someone's language proficiency that are now deployed under the Cambridge brand (Write & Improve). Helen is also a Research and Development specialist at iLexIR, working on viable commercial applications in AI. Previously, she was Affiliated Lecturer and Senior Researcher at the University of Cambridge. Helen holds a PhD in Natural Language and Information Processing, and an MPhil in Computer Speech, Text and Internet Technology.
+{% endhighlight %}
+
+
+> ### Using Machine Learning to Better Understand Human Learning
+> 
+> <cite>Dr. Mehran Sahami, Stanford University</cite>
+
+{% highlight html %}
+Abstract: Machine learning provides a great opportunity to analyze patterns in human learning. By building systems to analyze data from online educational systems, we hope to both build scalable systems to help humans learn as well as gain greater insight about the human learning process. Specifically, we examine the use of machine learning to build a hint generating system in an online platform for teaching introductory programming to millions of learners. We show that by combining patterns found in the steps taken by students developing programs with information generated by human instructors as to how they would guide students, we can realize a system that is effective at scaling hint generation to millions of students. Reflecting on the patterns extracted from that process, we also discuss findings that give us greater insight into human learning.
+
+Bio: Mehran Sahami is the James and Ellenor Chesebrough Professor in Engineering and Associate Chair for Education in the Computer Science department at Stanford University. He is also the Robert and Ruth Halperin University Fellow in Undergraduate Education at Stanford. Mehran has also worked as a Senior Research Scientist at Google and was appointed by the Governor of California to the state's Computer Science Strategic Implementation Plan Advisory Panel. Most recently, with colleagues in Stanford’s Political Science department, he has been teaching a course on “Ethics, Public Policy, and Technological Change” and will be releasing a book on that subject later this year.
+{% endhighlight %}
+
+
+> ### AI-Driven Robot for Education
+> 
+> <cite>Dr. Yu Lu, Beijing Normal University</cite>
+
+{% highlight html %}
+Abstract: In this talk, I introduce two different AI-driven robots for the education purposes. The first robot mainly targets on better motivating learners and optimizing the learning experiments for subject learning. The second one focuses on providing the intelligent dialogue service to help young teachers and parents to solve their problems for moral education. The designed robots adopt the latest AI technologies, typically including natural language processing, machine learning and affective computing, and have been deployed in practical learning context.
+
+Bio: LU Yu received the Ph.D. degree from National University of Singapore in computer engineering, and B.S./M.S. degrees from Beijing University of Aeronautics and Astronautics (Beihang University). He is currently an Associate Professor with the School of Educational Technology, Faculty of Education, Beijing Normal University (BNU), where he also serves as the director of the artificial intelligence lab (AI Lab) at the advanced innovation center for future education (AICFE). He has published more than 40 academic papers in the prestigious journals and conferences (e.g., IEEE TKDE, TMC, ICDM, AIED, CIKM, EDBT, IJCAI, ICDE), and currently serves as the PC member for multiple international conferences (e.g., AAAI and AIED). Before joining BNU, he was a research scientist and principle investigator at the Institute for Infocomm Research (I2R), A*STAR, Singapore. His current research interests sit at the intersection of artificial intelligence and educational technology, including learner modeling, educational robotics, intelligent tutoring system and educational data mining.
+{% endhighlight %}
+
+
+
+> ### GodEye: An Efficient and Practical AI-based System Designing for Improving the Course Quality of K12 Online 1 on 1 Classes
+> 
+> <cite>Mr. Hang Li, TAL Education Group</cite>
+
+{% highlight html %}
+Abstract: In recent years, the high-speed development in Internet technologies like streaming encourages the rise of online education among both students and teachers. With the help of the online education, students and teachers from anywhere could get rid of the limitation of physical distances and receive the education resources in a more fair way. Although, the benefits of the online education is appealing, the drawbacks of current online education are also obvious, including the difficulties in assuring the course qualities of huge amounts of online classes and the inferior study status caused by the unfamiliar feeling in online environments. 
+
+In this talk, I will introduce our proposed AI-based online course quality assurance system, GodEye, which receives the course video recordings as the input data and utilizes multiply advanced NLP and machine learning techniques to analyze the classroom performance of both students and teachers from four aspects: classroom manners, instruction behaviors, interaction status and overall performance. The first three aspects focusing on converting the classroom behaviors into different indicators, and the last aspect generates the system’s final judgment on course qualities. To demonstrate the effectiveness of the system, I will overview the models and experiment we conducted for each indicator of our system. Besides, the system’s online performance is also presented to reveal its real-world influence.
+
+Bio: Hang Li is a senior machine learning engineer of TAL Education Group (NYSE:TAL). His research interests including multimodal learning, data mining and machine learning and their applications in education. He developed several influential systems in education related fields, including AI-based teaching quality evaluation system, offline study highlights detection system, etc. He has published several papers at top conference proceedings, such as ICASSP, AIED, EDM. Before joining TAL, he received his M.S degree in Statistics from University of Illinois at Urbana-Champaign.
+{% endhighlight %}
+
+
+
+> ### Intelligent Dialogue Agents to Support K-12 Learning
+> 
+> <cite>Dr. Kristy Boyer, University of Florida</cite>
+
+{% highlight html %}
+Abstract: Recent years have seen tremendous growth in the technologies available to support K-12 learners. From pedagogical agents to intelligent tutoring systems to game-based learning, we now see a variety of systems that support both individual and collaborative learning. This talk discusses findings from projects that span primary, secondary, and post-secondary contexts and building AIs including learning companions, game-based pedagogical agents, and co-creative AI. We discuss 1) the influence of learner characteristics such as gender and self-efficacy on the most effective policies for AIs to adopt; 2) design considerations, particularly regarding persona of the AIs we build; and 3) ways in which we can use human collaboration to inform the design of AIs to support learning. 
+
+Bio: Dr. Kristy Elizabeth Boyer is an Associate Professor in the Department of Computer & Information Science & Engineering and the Department of Engineering Education at the University of Florida. Her research focuses on how natural language dialogue and intelligent systems can support human learning across educational contexts including within and outside the classroom. Her research group builds computational models of the processes and phenomena during dialogue and learning, and these models drive the adaptivity of intelligent systems.  
+{% endhighlight %}
+
+
+
+
+> ### Digital-first Assessments in a Computational Psychometrics Framework
+> 
+> <cite>Dr. Alina von Davier, Duolingo</cite>
+
+{% highlight html %}
+Abstract: Digital-first assessments are assessments that are test-taker centered, available anytime, any where, and affordable. In digital-first assessments the AI algorithms and the subject matter experts (SMEs) combine their strengths to create valid and reliable tests that are accessible and flexible. The items are designed and evaluated by SMEs and generated automatically using AI (AIG) and are being test-taker-sample independent to some degree; the scoring is done automatically based on the specifications created by the SMEs. The test is securely administered using tech, and the videos are reviewed by both AI and SMEs (human proctors). The evaluation is done using AQuAA (Analytics for Quality Assurance for Assessment) that will also blend the power of the statistical modeling, with automatic flagging, and human review. Computational psychometrics is a comprehensive framework that accommodates these new approaches. The methodological points discussed here will be illustrated with the Duolingo English Test.  
+
+Bio: Alina von Davier, PhD. is a Chief of Assessment at Duolingo and Founder & CEO of EdAstra Tech LLC. At Duolingo, von Davier and her team operate at the forefront of Computational Psychometrics. Her current research interests involve developing psychometric methodologies in support of digital-first assessments, such as the Duolingo English Test,  using techniques incorporating machine learning, data mining, Bayesian inference methods, and stochastic processes.
+
+Two publications, a co-edited volume on Computerized Multistage Testing (2014) and an edited volume on test equating, Statistical Models for Test Equating, Scaling, and Linking (2011) were selected as the winners of the Division D Significant Contribution to Educational Measurement and Research Methodology award at American Educational Research Association (AERA).  Additionally, she has written and/or co-edited five other books and volumes on statistics and psychometric topics. In 2020, von Davier was awarded a Career Award from the Association of Test Publishers (ATP). In 2019 she was a Finalist for the Visionary Award of EdTech Digest.
+
+Prior to Duolingo she was a Chief Officer at ACT, where she led ACTNext, a large R & D-innovation unit. Before that von Davier was a Senior Research Director at Educational Testing Service (ETS) where she led the Computational Psychometrics Research Center. Previor to that, she led the Center for Psychometrics for International Tests, where she was responsible for the psychometrics in support of international tests, TOEFL® and TOEIC®, and for the scores reported to millions of test takers annually.
+
+Von Davier is currently the president of the International Association of Computerized Adaptive Testing (IACAT) and she serves on the board of directors for the Association of Test Publishers (ATP). She is a mentor with New England Innovation Network, Harvard Innovation Labs, and with the Programme via:mento at the University of Kiel, Germany.
+
+She earned her doctorate in mathematics from Otto von Guericke University of Magdeburg, Germany, and her master of science degree in mathematics from the University of Bucharest, Romania.
+{% endhighlight %}
+
+
+
+> ### Innovative Adaptive Instructional Solutions
+> 
+> <cite>Dr. Robert Sottilare, Soar Technology</cite>
+
+{% highlight html %}
+Abstract: This talk reviews current and emerging instructional technology to enable adaptive educational and training experiences. Adaptive instructional systems (AISs), tools and methods are used to tailor learning experiences to support the goals, interests, learning gaps, and preferences of individual learners and teams of learners. AISs are composed of technologies, learning strategies and enablers, and products (commercial and open source) that leverage the power of artificial intelligence (AI) to enhance opportunities for learning. Adaptive instructional technologies include computer-based tutors, mentors, and recommender systems along with models of the learner(s), the domain of instruction, the interface and the instructional principles. Learner models range from representations of performance, knowledge and skill acquisition to long-term competency assessment). Learning strategies include policies (e.g., error-sensitive feedback, worked examples and mastery learning) and theory-based frameworks that include processes for efficiently acquiring knowledge (rules and examples) and applying that knowledge to develop skills through practice. This talk will review the intersection of AI and learning effectiveness along with a review of open source products and initiatives in the AIS marketplace.  
+
+Bio: Dr. Robert Sottilare is the Director of Learning Sciences at Soar Technology, Inc. and Chairman of the Board for the not-for-profit Adaptive Instructional Systems (AIS) Consortium. He has nearly 40 years of experience as a researcher, developer and evaluator of instructional technology and training systems. His experience spans government (US Army and Navy science & technology organizations), industry and academia. His recent research has focused on adaptive instruction including learner and team modeling, automated authoring tools, AI-based real-time instructional management, and evaluation methods for intelligent tutoring systems (ITSs).  At the US Army Research Laboratory, he founded and led the adaptive training science & technology program and is the father of the award-winning Generalized Intelligent Framework for Tutoring (GIFT), an adaptive instructional architecture. Dr. Sottilare is widely published with over 240 technical papers with over 2500 citations. He has a long history as a leader, speaker and supporter of learning sciences. He is a senior member of the IEEE and founding Chair of the IEEE AIS Working Group, Chair of the HCII AIS Conference and is a former Program Chair of the Defense & Homeland Security Simulation Conference. 
+
+Dr. Sottilare is an associate editor for the IEEE Transactions on Learning Technologies Journal and has held membership in the AI in Education Society, the Florida AI Research Society, the IEEE Computer Society, the IEEE Standards Association, the National Defense Industry Association and the National Training Systems Association. He is a faculty scholar and formerly taught graduate level courses on ITS theory and design. He was also an appointed visiting lecturer at the United States Military Academy where he taught a senior level colloquium in adaptive training methods and ITS design. Dr. Sottilare earned a patent (#7,525,735) for a high resolution, head mounted projection display using virtual target technologies to support virtual, live (embedded) and augmented reality training. He is a recipient of the US Army Meritorious Service Award (2018), the US Army Achievement Medal for Civilian Service (2008), the National Training & Simulation Association (NTSA) Team Award for Education & Human Performance (2019) for his contributions to GIFT, and two lifetime achievement awards in Modeling & Simulation: US Army RDECOM (2012; inaugural recipient) and the NTSA Governor’s Award (2015). He recently won best tutorial for his short course on the “Fundamentals of Adaptive Instruction” at the 2020 Interservice/Industry Training, Simulation & Education Conference (IITSEC).
+{% endhighlight %}
+
+
+
+> ### Child Specific Voice Technology in Education
+> 
+> <cite>Dr. Patricia Scanlon, SoapBox Labs</cite>
+
+{% highlight html %}
+Abstract: Automatic Speech Recognition systems that have been built using predominantly adult data and modeling adult voices and behaviors are not accurate for young children's speech as the children's voices differ greatly from adults both physically and behaviorally. Children's voices and speech change as they grow older. Other challenges that have a significant impact on performance include the treatment of accents, dialects and how bias in such ASR systems can have a detrimental effect on those children using such systems.
+
+Bio: Dr. Patricia Scanlon is the founder and CEO of SoapBox Labs, the world's leading provider of proprietary voice technology for children. Dr. Scanlon holds a PhD and has over 20 years experience working in speech recognition technology, including at Bell Labs and IBM. An acclaimed TEDx speaker, in 2018 Dr. Scanlon was named one of Forbes "Top 50 Women in Tech" globally. In 2020, she was ranked 6th of 17 global "Visionaries in Voice” by industry leading publication Voicebot.ai. Inspired by her oldest child, and her background as a speech engineer, Dr. Scanlon founded SoapBox Labs in 2013 to redefine how children interact with technology using their voices. SoapBox Labs proprietary voice engine is now the leading voice solution for kids ages 2-12 years across the education and entertainment industries globally. The company is based in Dublin, Ireland, and has a world class team of 30 employees.
+{% endhighlight %}
+
+
+> ### Smart Path to Future Success
+> 
+> <cite>Ms. Susan Liu, TAL Education Group</cite>
+
+{% highlight html %}
+Abstract: Tesol Advanced Certificiate holder, M.S in IMC of Golden Gate University, English high-end product designer & teacher.
+
+Bio: Xuersi has made efforts to become a top brand in China during the last decade.To achieve the goal, we are making new progress building "Smart class" with endless efforts. We believe that everyone should have equal right to get good education, whether it's online or offline. And we have buit strong bond with parents and students. Of course, huge improvememt can't be made without our secret --- the assessment system--- which has helped thouands of students figure out their problems accurately and rapidly.
+{% endhighlight %}
+
+
+> ### OLAF: A Multiagent Architecture Framework for Adaptive Instruction Systems
+> 
+> <cite>Mr. Richard Tong, Yixue Squirrel AI Learning</cite>
+
+{% highlight html %}
+Abstract: In this talk, the author discusses how multiagent AI architecture can be applied to the future of adaptive instructional systems (AIS) to enable a new breed of educational AI.
+
+Advances in technology have changed the landscape of education. They have improved access to education, delivering educational content at scale without limitations of space and temporal synchrony. Learning Management Systems (LMS) are extremely useful learning tools for both teachers and students. While providing materials that help students learn remotely, most educational technology platforms are limited in their personalization capability, leaving the burden of content choice to the student or instructors. Like a vast empty library, these learning management systems (LMS), video sharing platforms, and mobile applications make knowledge available, but provide few signposts that tell the student where to begin or go next.
+
+A small but growing set of tools are in the category now called Adaptive Instructional Systems (AIS), e.g. Generalized Intelligent Framework for Tutoring, GIFT; Sottilare, Goldberg, Brawner & Holden, 2012. These AIS provide individually tailored recommendations, feedback, or both, to students based on strategies informed by learner goals, preferences, attributes, and instructional conditions (Sottilare, Barr, Robson, Hu & Grasser, 2018). AIS bring together research in artificial intelligence, cognitive science, and education to characterize a student’s knowledge and offer him or her the best available resources to meet learning goals.
+
+AIS can perform as well as human tutors (VanLehn, 2011). However, this success is limited to a few well-defined domains, and AIS are far from ubiquitous (Sottilare, 2018). Sottilare (2018) identified 8 goals for AIS enhancement to bring AIS closer towards becoming ubiquitous instructional tools. We envision that OLI Adaptive Framework (OLAF), an adaptive LMS with an innovative multiagent adaptive architecture, and the research it enables, will help move towards many of the goals that Sottilare set out. These are Developing Efficient Authoring Processes (Goal 1), Developing Effective Instructional Decisions (Goal 2), Building Rapport and Engagement with Learners (Goal 4), Expanding Adaptive Instruction to a Broader Array of Task Domains (Goal 6), and Evaluating the Effectiveness and Efficiency of Adaptive Instructional Systems (Goal 7). In addition, OLAF aims to expand the possibilities of AIS by enabling ML driven and human-in-the-loop adaptive instruction and allow for much easier research experiments and AI expansion.
+
+Our ultimate vision for OLAF is to provide a reference implementation for standards for the future of AI systems in education. Like a personal librarian in the empty library, the AI system makes use of a vast trove of available content to show the students the ropes of a domain, while also considering how it can do this better in the future. We believe that OLAF’s development will upgrade the AIS community’s current toolset for building adaptive online courses and serve as a template for the enhancement of current systems. Having addressed key challenges for AIS, next-generation systems like OLAF will be far more capable of achieving ubiquitous application to provide high quality personalized learning at scale. We also believe that in doing so, OLAF will have enabled several advances in fields such as explainable AI, learner and pedagogical modeling, multi-agent systems in complex domains. OLAF’s feature set and adoption in real-world settings will also accelerate research in the AI for learning and education. 
+
+
+Bio: Richard Tong is the Chief Architect and General Manager of US Operations, Squirrel AI Learning. He currently serves as the Chair of IEEE Learning Technology Standards Committee and Vice-Chair of IEEE artificial intelligence Standards Committee. Prior to Squirrel Ai, he was the Head of Implementation, Greater China Region for Knewton, and Director of Solution Architecture for Amplify Education. He also served as the CTO of Phoenix New Media (NYSE:FENG). Richard is an experienced technologist, executive, entrepreneur and one of the leading evangelists for global standardization effort for learning technologies and artificial intelligence. 
+{% endhighlight %}
+
+
+> ### Efficiency and Revolution: How AI Will Empower K-12 Education
+> 
+> <cite>Dr. Qianying Wang, Lenovo Group</cite>
+
+{% highlight html %}
+Abstract: The efficiency improvement and business model transformation, made possible by the smartification of industries, will be the major driving force of the growth of the digital economy in the future. This presentation will focus on Lenovo's smart education practices, and explore how artificial intelligence could enable K-12 education. It will also make clear that, when empowering education with cutting-edge technologies, education itself is the end, while technology is the means. And smart education solutions should primarily meet the needs of teachers and students, with teaching and learning being the key scenarios. First of all, the problem of efficiency should be addressed. Artificial intelligence is expected to provide whole-process, multi-dimensional and fine-grained teaching and learning support, thus could become the best teaching assistant in human history, and helping teachers, students, parents and education administrators reduce workloads and boost efficiency. Secondly, the reform of education systems and models needs to be studied to see whether artificial intelligence would likely redefine the learning environment, and deliver brand-new teaching and learning experiences. 
+
+
+Bio: Qianying Wang graduated from Stanford University with a Ph.D of human-computer interaction. Serving as Lenovo Corporate VP, she oversees Lenovo's technical strategy formulation, innovation planning and smart education product R&D. 
+
+She is a director of the China Computer Federation, and vice-chair of the China chapter of ACM's special interest group on computer-human interaction. In 2019, she was listed among Forbes China's Top 50 Women in Tech rankings. A holder of more than 80 patents, she published over 30 papers in top international academic journals and periodicals.
+{% endhighlight %}
+
+
+
+> ### Next Generation eBooks: Dynamic Data-rich Learning with PeBL
+> 
+> <cite>Mr. Elliot Robson, Eduworks Corporation</cite>
+
+{% highlight html %}
+Abstract: This session covers technology advances that allow dynamic and adaptive pedagogy to be deployed in portable eBooks. The Personalized eBooks for Learning (PeBL) project is part of the Advanced Distributed Learning Initiative’s (ADL) Total Learning Architecture (TLA). PeBL allows new learner-adaptive pedagogy, typically found in bespoke cloud-based training, to work in eBooks while maintaining offline capabilities. This presentation will demonstrate (a) eBook creation tools that make reusing or creating new adaptive learning content easy, (b) PeBL-enhanced training interfacing with other adaptive learning systems to provide personalized content to the learner, and (c) using eXperience API (xAPI) data generated by PeBL eBooks to power a LRS or instructor dashboard.
+
+
+Bio: Elliot Robson is the General Manager at Eduworks Corporation. He has worked at Eduworks since 2013 and is the Principal Investigator on the Personalized eBooks for Learning (PeBL) project funded by the US Advanced Distributed Learning (ADL). He is currently Co-PI on the NSF SkillSync project as well as the Competency and Skills System (CaSS) project where he helped manage the research team and design algorithms. He has over 15 years of experience as an analyst and researcher in ICT for Education. He previously worked as the Head Analyst at Amplify Learning where he analyzed student data from school districts around the country and provided policy recommendations for multiple major districts.
+{% endhighlight %}
+
+
+> ### Classifying Documents to Multiple Readability levels
+> 
+> <cite>Wejdan Alkaldi and Diana Inkpen</cite>
+
+{% highlight html %}
+Abstract: Year after year, reading becomes more important to keep up with the growing amount of knowledge. The ability to read a document varies from person to person depending on their skills and knowledge. It also depends on the readability level of the text, whether it matches the reader’s level or not. In this paper, we propose a system that uses state-of-the-art technology, including deep learning, to classify text documents into their appropriate readability level. We design several features, including readability metrics. Our models are trained on on the Newsela dataset, that is labeled with five readability levels. We also propose an improved version of the dataset, that we use in order to achieve higher classification accuracy. This work could be beneficial to educators in assisting readers with different reading levels, in order to choose materials that match their readability level.
+{% endhighlight %}
+
+## Organizers
+
+![Beautiful place]({{site.baseurl}}/images/aaai2021sss_workshop_organizers.jpg)
+
+* **Zitao Liu** TAL Education Group, China
+* **Jiliang Tang** Michigan State University, USA
+* **Yi Chang** Jilin University, China
+* **Xiangen Hu** University of Memphis, USA
+* **Diane Litman** University of Pittsburgh, USA
+
+
+
+

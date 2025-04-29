@@ -1,0 +1,143 @@
+---
+layout: post
+title:  AIED2023 Empowering Education with LLMs - the Next-Gen Interface and Content Generation
+date:   2023-07-07 10:00:00
+image:  '/images/aied2023.jpg'
+tags:   [Workshop, AIED]
+featured: false
+category: workshops
+---
+
+## Introduction
+
+This hybrid workshop aims to bring together researchers and practitioners from academia and industry to explore the potential of generative artificial intelligence to both support and hinder learning. We will explore the use of Large Language Models (LLMs) in human-in-the-loop systems, discussing how different human-AI partnerships involving students, instructors, and others can be effectively leveraged. Through guest speakers, participant presentations, panel discussions, and a mini-hackathon, attendees will have the opportunity to engage with LLMs in the context of education. We will further explore topics related to educational content creation and evaluation, challenges and opportunities for LLMs, and ethical considerations. While no submission is required for this hybrid workshop in order to participate, we are accepting papers consisting of around 5 pages, find out more details below.
+
+
+## Workshop Schedule
+
+* Introductions (9:00 - 9:30)
+* Invited speakers (9:30 - 10:30)
+	* Bor-Chen Kuo
+	* Zachary Pardos
+* Round-table Discussion (10:30 - 11:15)
+* Invited speaker (11:15 - 11:30)
+	* Neil Heffernan
+* Onsite Paper Presentations (11:30 - 12:45) 
+	* 11:30 - 11:45 **[Paper Presentation]**: Muntasir Hoq, Yang Shi, Juho Leinonen, Damilola Babalola, Collin Lynch and Bita Akram - Detecting ChatGPT-Generated Code in a CS1 Course 
+		- Paper PDF [Link](https://drive.google.com/file/d/1eVfGgatxPHkPZTdH3HgyKhssz83kH8BH/view?usp=drive_link)
+	* 11:45 - 12:00 **[Paper Presentation]**: Andrew Caines, Luca Benedetto, Shiva Taslimipoor, Christopher Davis, Yuan Gao, Øistein Andersen, Zheng Yuan, Mark Elliott, Russell Moore, Christopher Bryant, Marek Rei, Andrew Mullooly, Diane Nicholls and Paula Buttery - On the application of Large Language Models for language teaching and assessment technology
+		- Paper PDF [Link](https://drive.google.com/file/d/1CkzEqGb62tnz5mlulxbcHyil4SEaaXLl/view?usp=drive_link)
+	* 12:00 - 12:15 **[Paper Presentation]**: Benjamin Nye, Dillon Mee and Mark G. Core - Generative Large Language Models for Dialog-Based Tutoring: An Early Consideration of Opportunities and Concerns
+		- Paper PDF [Link](https://drive.google.com/file/d/1aIrWE3U4wDxUhtOXgsxvj6nwb_3_q046/view?usp=drive_link)
+	* 12:15 - 12:30 **[Paper Presentation]**: Matyáš Boháček - The Unseen A+ Student: Evaluating the Performance and Detectability of Large Language Models in High School Assignments
+		- Paper PDF [Link](https://drive.google.com/file/d/1ZB2XGJrZHEVIc44k0VQ04-U4TSsJTfbY/view?usp=drive_link)
+	* 12:30 - 12:45 **[Paper Presentation]**: Bor-Chen Kuo, Frederic Chang and Zong-En Bai - Leveraging LLMs for Adaptive Testing and Learning in Taiwan Adaptive Learning Platform (TALP) 
+		- Paper PDF [Link](https://drive.google.com/file/d/1XKFRvTmu4dOHcZvFmbChdN0tC0mUjJiY/view?usp=drive_link)
+* Lunch (12:45 - 13:30)
+* Onsite Paper presentations (13:30 - 14:45)
+	* 13:30 - 13:45 **[Paper Presentation]**: Andrew Oleny - Generating Multiple Choice Questions from A Textbook: LLMs Match Human Performance on Most Metrics 
+		- Paper PDF [Link](https://drive.google.com/file/d/18swn5plXyQlBlxRnA-tvRkQSMd3PELEl/view?usp=drive_link)
+	* 13:45 - 14:00 **[Paper Presentation]**: Daniel Leiker, Sara Finnigan, Ashley Ricker Gyllen and Mutlu Cukurova - Prototyping the Use of Large Language Models (LLMs) for Adult Learning Content Creation at Scale
+		- Paper PDF [Link](https://drive.google.com/file/d/1jldYQaiRDBllQHrQhZJ5Zgyus3ZGXTBF/view?usp=drive_link)
+	* 14:00 - 14:15 **[Paper Presentation]**: Alex Goslen, Yeo Jin Kim, Jonathan Rowe and James Lester - Language Modeling for Plan Generation in Game-Base Learning Environments
+		- Paper PDF [Link](https://drive.google.com/file/d/1eQ8Ek6CB8MY8bpioWoAt2m12qpf2U96j/view?usp=drive_link)
+	* 14:15 - 14:30 **[Paper Presentation]**: Kole Norberg, Husni Almoubayyed, Stephen Fancsali, Logan De Ley, Kyle Weldon, April Murphy and Steve Ritter - Rewriting Math Word Problems with Large Language Models
+		- Paper PDF [Link](https://drive.google.com/file/d/1kPLSpjBdTcL2uwZrNlVvlnlWqZl2GoBm/view?usp=drive_link)
+	* 14:30 - 14:45 **[Paper Presentation]**: Gautam Yadav, Ying-Jui Tseng and Xiaolin Ni - Contextualizing Problems to Student Interests at Scale in Intelligent Tutoring System Using Large Language Models
+		- Paper PDF [Link](https://drive.google.com/file/d/1trdsesc_A4AQdEn0kUSCUYOIBbB0aSKA/view?usp=drive_link)
+* Coffee Break (15:00 - 15:30)
+* Mini-Hackathon (15:30 - 16:45) 
+* Closing Remarks (16:45 - 17:00)
+
+
+### Virtual Presentation (Pre-recorded Video) Schedule
+
+
+* **[Virtual Presentation]**: Shashank Sonkar, Richard Baraniuk - DUPEd GPT: Can GPT do Knowledge Tracing?
+	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1gUR9rA9D_Xy_TBRX6hV4-NXn5EwFL0L5/view?usp=drive_link)
+* **[Virtual Presentation]**: Pragnya Sridhar, Aidan Doyle, Arav Agarwal, Christopher Bogart, Jaromir Savelka, Majd Sakr - Harnessing LLMs in Curricular Design: Using GPT-4 to Support Authoring of Learning Objectives
+	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1QaUK1CDAKkLZwV9WpSDXeV5lb2gvFxT-/view?usp=drive_link)
+* **[Virtual Presentation]**: Md Rayhan Kabir, Fuhua (Oscar) Lin - An LLM-Powered Adaptive Practicing System
+	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1SDyr1IohN3ZN9-qgBXkYtjFf3nHxIG_C/view?usp=drive_link)
+* **[Virtual Presentation]**: Shouvik Ahmed Antu, Haiyan Cheng, Cindy K Roberts - Using LLM (Large Language Model) to Improve Efficiency for Literature Reviews in Undergraduate Research
+	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1hfoUuERGZf-QZ1srvdkL4uLQR2BV6_JU/view?usp=drive_link)
+* **[Virtual Presentation]**: Katie Bainbridge, Candace Walkington, Armon Ibrahim, Iris Zhong, Debshila Basu Mallick, Julianna Washington, Richard Baraniuk - A Case Study using Large Language Models to Generate Metadata for Math Questions
+	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1FE9eRTnRJ9ZlSQ9ZbWKjGdRwMnOmkTcu/view?usp=drive_link)
+* **[Virtual Presentation]**: Sai Gattupalli, Will Lee, Danielle Allessio, Danielle Crabtree, Ivon Arroyo, Beverly Woolf - Exploring Pre-Service Teachers' Perceptions of Large Language Models-Generated Hints in Online Mathematics Learning
+	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1-wZncNs0A3Zo6opiBZVx5hEiw4bZ8o7g/view?usp=drive_link)
+* **[Virtual Presentation]**: Qianou (Christina) Ma, Sherry (Tongshuang) Wu, Ken Koedinger - Is LLM the Better Programming Partner?
+	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1sqFLJGAhsFOmbioFTubmUoEJOb70bRqh/view?usp=drive_link)
+
+
+## PC Members
+
+We thank all the PC members (reviewers) for the hard work!
+
+* Gautam Yadav
+* Liang Zhang
+* Ilya Musabirov
+* Jaromir Savelka
+* Jionghao Lin
+* Mohi Reza
+* Huy Nguyen
+* Ruoxi Shang
+* Warren Li
+* Kexin Yang
+* Danny Weitekamp
+* Chengbo Zheng
+* Tim Lee
+* Troy Zhao
+
+
+## Call for Papers & Participation
+
+
+This hybrid workshop at AIED 2023 is a unique venue to showcase work and initiatives related to leveraging large language models in an educational context, such as assisting with the creation of content or their use in adaptive learning systems. While no submission is required for this hybrid workshop in order to participate, we are accepting papers that are 5 - 10 pages (roughly 2,000 - 4,000 words) in length using the workshop style in either the [LaTeX template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw) or the [DOCX template](https://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx). We invite you to participate and submit papers based on:
+
+
+* The application of Large Language Models (LLMs) in educational settings
+* Generation and evaluation of educational content with the help of LLMs
+* Co-creation of educational partnerships, where the human or AI might benefit the most
+* Ethical considerations in the use of LLMs as communication interfaces in educational settings
+* Designing effective and standardized user interfaces for LLM-based educational systems
+* Crowdsourcing & Learnersourcing in conjunction with LLMs
+
+The  submissions will be curated into a proceedings that will be made available via [ceur-ws.org](ceur-ws.org). Submissions should contain mostly novel work, however there can be overlap between the submission and work submitted elsewhere (such as summaries, describing the process of the work, and focusing on the learnersourcing aspect). Each of the submissions will be reviewed by the members of the Program Committee.
+
+**Submission URL**: [https://easychair.org/conferences/?conf=aiedllm1](https://easychair.org/conferences/?conf=aiedllm1)
+
+This will be a hybrid workshop, offering participation for everyone both in-person and online via Zoom.
+
+
+
+## Important Dates
+
+* ~~**May 27, 2023**~~ **May 30, 2023**: Workshop paper submission due AOE
+* ~~**June 03, 2023**~~ **June 09, 2023**: Notifications of acceptance
+* **July 07, 2023**: Workshop Date
+
+
+
+<!-- * **Jan 5, 2023**: Deadline of the camera-ready final paper submission
+* **Feb 13, 2023**: Workshop Date  -->
+
+
+
+## Organizers
+
+<!-- ![Beautiful place]({{site.baseurl}}/images/aaai2023_workshop_organizers.jpg) -->
+
+
+* **Steven Moore** (main contact), Carnegie Mellon University, USA
+* **Richard Tong** (main contact), Carnegie Learning, USA
+<!-- * **Zitao Liu**, Guangdong Institute of Smart Education, Jinan University, China -->
+* **Zitao Liu**, TAL Education Group, China
+* **Xiangen Hu**, The University of Memphis, USA
+* **Yu Lu**, Beijing Normal University, China
+* **Joleen Liang**, Squirrel AI Learning, China
+* **Hassan Khosravi**, The University of Queensland, Australia
+* **Paul Denny**, The University of Auckland, New Zealand
+* **Anjali Singh**, University of Michigan, USA
+* **Chris Brooks**, University of Michigan, USA
+* **John Stamper**, Carnegie Mellon University, USA
+* **Chen Cao**, University of Sheffield, UK

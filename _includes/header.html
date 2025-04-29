@@ -1,1 +1,51 @@
-<div class="row navRow"><nav class="navbar navbar-default navbar-fixed-top"><div class="container-fluid"><!-- Brand and toggle get grouped for better mobile display--><div class="navbar-header"><button type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" class="navbar-toggle collapsed"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a href="{{ site.baseurl }}" class="navbar-brand">{{ site.title }}</a></div><!-- Collect the nav links, forms, and other content for toggling--><div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse"><ul class="nav navbar-nav"><li><a href="/index.html">Home</a></li><li class="dropdown"><a href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle">Categories<span class="caret"><ul class="dropdown-menu"><!-- This is where you would list your categories--><li><a href="/categories/recipes.html">Recipes</a></li><li><a href="/categories/training.html">Training</a></li><li><a href="/categories/reviews.html">Reviews</a></li></ul></span></a></li><li><a href="/about.html">About</a></li></ul></div></div></nav></div>
+<!-- begin header -->
+<header class="header">
+  <div class="container">
+    <div class="row">
+      <div class="header__inner col col-12">
+
+      <div class="logo">
+        <a class="logo__link" href="{{ site.baseurl }}/">
+        {%if site.logo %}
+          <img class="logo__image" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
+        {% else %}
+          {{ site.title }}
+        {% endif %}
+        </a>
+      </div>
+        
+      <div class="menu-overlay">
+        <nav class="main-nav">
+          <div class="main-nav__box">
+            <div class="nav__icon-close">
+              <i class="ion ion-md-close"></i>
+            </div>
+            <div class="nav-grid">
+              <div class="nav-grid__item">
+                <h2 class="nav-grid__title">Menu</h2>
+                <div class="mobile-nav">
+                  {%include navigation.html%}
+                </div>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+
+      <div class="navigation">
+        <div class="top-nav">
+          {%include navigation.html%}
+        </div>
+        <div class="nav-buttons">
+          <i class="nav__icon nav__icon-menu ion ion-md-menu"></i>
+          <i class="nav__icon nav__icon-search ion ion-md-search"></i>
+        </div>
+      </div>
+
+      </div>
+    </div>
+  </div>
+</header>
+<!-- end header -->
+
+{% include search.html %}
