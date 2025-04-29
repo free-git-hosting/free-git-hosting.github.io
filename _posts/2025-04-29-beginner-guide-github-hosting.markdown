@@ -63,7 +63,7 @@ git push origin main
 
 ## Enabling GitHub Hosting with GitHub Pages
 
-![GitHub repository showing Pages settings for enabling GitHub hosting]({{ site.baseurl }}/assets/images/Enabling-GitHub-Hosting-with-GitHub-Pages.webp)
+![GitHub repository showing Pages settings for enabling GitHub hosting]({{ site.baseurl }}/images/Enabling-GitHub-Hosting-with-GitHub-Pages.webp)
 
 ### Choose a Branch for GitHub Pages
 - Go to your repository Settings.
@@ -115,7 +115,7 @@ Use tools like Google Analytics or Plausible for tracking.
 
 ## Best Practices for GitHub Hosting
 
-![DNS settings configured to point a custom domain to GitHub Pages.]({{ site.baseurl }}/assets/images/Best-Practices-for-GitHub-Hosting.webp)
+![DNS settings configured to point a custom domain to GitHub Pages.]({{ site.baseurl }}/images/Best-Practices-for-GitHub-Hosting.webp)
 
 ### Keep Repositories Organized
 Use folders like `/assets`, `/images`, and `/scripts`.
