@@ -35,8 +35,8 @@ slider: true # NOTE - By default, the slider is set to display featured posts. T
 #-------------------------------
 # Contact Settings
 contact:
-  email: zitao.jerry.liu@gmail.com # Add your email for contant form
-  description: Bonso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: free.git.hosting@gmail.com # Add your email for contant form
+  # description: Bonso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
 # Bonso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
@@ -47,7 +47,6 @@ disqus-identifier: dr-ai4ed # Add your shortname for Disqus Comment. For example
 
 #-------------------------------
 # Google Analytics
-google-analytics: UA-166862523-1
 # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
