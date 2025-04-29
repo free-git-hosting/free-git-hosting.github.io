@@ -1,18 +1,19 @@
 ---
 #-------------------------------
 # General Site Settings
-title: ai4ed
+title: free git hosting
 logo: # You can add own logo. For example '/images/logo.png'.
-description: AI in Education
+description: Everything you need to know about free git hosting. Find Articles related to the best free git hosting services, including GitHub, GitLab, Bitbucket, and more. Compare features, pricing, and user reviews to find the perfect solution for your needs.
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "http://ai4ed.cc" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://free-git-hosting.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
 author:
-  avatar: "/images/01.jpg"
-  name: ai4ed
-  job: AI in Education
+  avatar: "/images/Author-codingRhodes.webp"
+  name: codingRhodes
+  job: Developer
+  description: 'CodingRhodes is a passionate developer and tech enthusiast who loves to explore the world of programming and technology. With a keen interest in web development, software engineering, and open-source projects, CodingRhodes shares valuable insights, tutorials, and resources to help fellow developers enhance their skills and stay updated with the latest trends in the tech industry.'
 
 social:
   # - {icon: "ion-logo-twitter", link: "https://twitter.com"}
