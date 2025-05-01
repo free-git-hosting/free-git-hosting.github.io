@@ -22,12 +22,14 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   
-author:
-  CodingRhodes:
-    avatar: "assets/images/Author-codingRhodes.webp"
-    name: Coding Rhodes
-    job: Passionate Developer & Content Writer. 
-    description: 'CodingRhodes is a passionate developer and tech enthusiast who loves to explore the world of programming and technology. With a keen interest in web development, software engineering, and open-source projects, CodingRhodes shares valuable insights, tutorials, and resources to help fellow developers enhance their skills and stay updated with the latest trends in the tech industry.'
+authors:
+    CodingRhodes:
+      name:           Coding Rhodes
+      site:           /
+      avatar:         assets/images/Author-codingRhodes.webp
+      bio:            "Hi, I am Coding Rhodes, the author of this article, Do let me know If you have any Questions"
+      email:          CodingRhodes@gmail.com
+      twitter:        https://x.com/CodingRhodes
 
 social:
   # - {icon: "ion-logo-twitter", link: "https://twitter.com"}
