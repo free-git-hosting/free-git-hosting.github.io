@@ -23,10 +23,11 @@ plugins:
   - jekyll-seo-tag
   
 author:
-  avatar: "assets/images/Author-codingRhodes.webp"
-  name: Coding Rhodes
-  job: Passionate Developer & Content Writer. 
-  description: 'CodingRhodes is a passionate developer and tech enthusiast who loves to explore the world of programming and technology. With a keen interest in web development, software engineering, and open-source projects, CodingRhodes shares valuable insights, tutorials, and resources to help fellow developers enhance their skills and stay updated with the latest trends in the tech industry.'
+  CodingRhodes:
+    avatar: "assets/images/Author-codingRhodes.webp"
+    name: Coding Rhodes
+    job: Passionate Developer & Content Writer. 
+    description: 'CodingRhodes is a passionate developer and tech enthusiast who loves to explore the world of programming and technology. With a keen interest in web development, software engineering, and open-source projects, CodingRhodes shares valuable insights, tutorials, and resources to help fellow developers enhance their skills and stay updated with the latest trends in the tech industry.'
 
 social:
   # - {icon: "ion-logo-twitter", link: "https://twitter.com"}

@@ -5,6 +5,7 @@ categories: [Web Development, GitHub, Hosting]
 tags: [GitHub hosting, static website, GitHub Pages, beginner guide]
 description: "Master GitHub hosting with our beginner-friendly guide. Learn to launch your first website using GitHub Pages in simple steps."
 featured: false
+author: CodingRhodes
 image: assets/images/featured_beginner-guide-github-hosting.webp
 ---
 
