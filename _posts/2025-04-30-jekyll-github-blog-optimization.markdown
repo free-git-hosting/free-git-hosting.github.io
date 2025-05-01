@@ -6,6 +6,7 @@ tags: [github hosting, jekyll, static site generator, blogging, web design]
 description: "Learn to master Jekyll for your GitHub-hosted blog. Optimize design, SEO, and performance with this easy step-by-step guide."
 image: assets/images/featured_jekyll-github-blog-optimization.webp
 featured: false
+author: CodingRhodes
 ---
 
 Jekyll is a powerful static site generator that works seamlessly with GitHub hosting, allowing users to create fast, secure, and customizable blogs without needing a traditional web server. 

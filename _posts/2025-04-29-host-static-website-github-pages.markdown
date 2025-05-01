@@ -6,6 +6,7 @@ tags: [GitHub hosting, static website, GitHub Pages, free website hosting]
 description: "Learn how to use GitHub hosting to publish a static website for free with GitHub Pages. Step-by-step guide tailored for beginners."
 image: assets/images/featured_host-static-website-github-pages.webp
 featured: false
+author: CodingRhodes
 ---
 
 Hosting a website no longer requires expensive servers or complicated configurations. With GitHub hosting, anyone can publish a static website for free using GitHub Pages. 

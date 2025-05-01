@@ -6,6 +6,7 @@ tags: [GitHub hosting, web hosting, static websites, hosting comparison]
 description: "Compare GitHub hosting with traditional web hosting. Discover which solution is better for your website needs in this easy-to-follow guide."
 image: assets/images/featured_github-hosting-vs-web-hosting.webp
 featured: false
+author: CodingRhodes
 ---
 
 Choosing the right hosting platform is crucial when launching a website. This detailed comparison between GitHub hosting and traditional web hosting helps you determine which is better suited to your needs.

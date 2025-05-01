@@ -6,6 +6,7 @@ tags: [github hosting, seo optimization, static site seo, jekyll seo, github pag
 description: "Learn how to improve SEO for your GitHub-hosted website. Covers metadata, sitemaps, mobile performance, backlinks, and technical SEO."
 image: assets/images/featured_seo-for-github-hosted-sites.webp
 featured: true
+author: CodingRhodes
 ---
 
 GitHub Pages offers a fantastic platform for hosting static websites, but SEO optimization often goes overlooked. Whether you're publishing a portfolio, personal blog, or documentation site, enhancing your GitHub-hosted website for search engines is essential. 

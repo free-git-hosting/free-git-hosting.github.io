@@ -5,6 +5,7 @@ categories: [Web Development, GitHub, Hosting, Portfolio]
 tags: [GitHub hosting, portfolio website, GitHub Pages, free website hosting, web development]
 description: "Launch your personal portfolio for free with GitHub hosting. This detailed guide walks you through every step with GitHub Pages."
 image: assets/images/featured_deploy-portfolio-github-hosting.webp
+author: CodingRhodes
 featured: false
 ---
 

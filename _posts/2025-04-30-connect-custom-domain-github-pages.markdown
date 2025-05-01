@@ -6,6 +6,7 @@ tags: [github hosting, custom domain setup, github pages, website deployment, DN
 description: "Learn how to connect a custom domain with GitHub Pages. Step-by-step guide to GitHub hosting, DNS setup, HTTPS, and troubleshooting tips."
 image: assets/images/featured_connect-custom-domain-github-pages.webp
 featured: false
+author: CodingRhodes
 ---
 
 Integrating a custom domain with GitHub Pages allows developers and website owners to present a professional, branded URL while leveraging the power of GitHub hosting. 

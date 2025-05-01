@@ -6,6 +6,7 @@ tags: [GitHub hosting, project hosting, static websites, developer tools, versio
 meta_description: "Discover 5 compelling reasons to choose GitHub hosting for your development projects. Learn how GitHub boosts collaboration, security, and reach."
 image: assets/images/featured_why-use-github-for-hosting.webp
 featured: false
+author: CodingRhodes
 ---
 
 When it comes to hosting and managing web projects, developers today are shifting towards more collaborative, cost-effective, and reliable platforms. 
