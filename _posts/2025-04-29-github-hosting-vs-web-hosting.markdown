@@ -28,7 +28,7 @@ GitHub hosting uses GitHub Pages to serve static websites directly from a GitHub
 
 ### Setup and Ease of Use
 
-![GitHub repository settings showing GitHub Pages enabled for static site hosting]({{ site.baseurl }}assets/images/Setup-and-Ease-of-Use.webp)
+![GitHub repository settings showing GitHub Pages enabled for static site hosting]({{ site.baseurl }}/assets/images/Setup-and-Ease-of-Use.webp)
 
 #### GitHub Hosting
 - Requires basic Git and GitHub knowledge
@@ -179,7 +179,7 @@ GitHub doesn’t support WordPress, which requires PHP and MySQL.
 - Shopify and WooCommerce stores
 - Custom-built dynamic apps
 
-![GitHub repository settings showing GitHub Pages enabled for static site hosting]({{ site.baseurl }}assets/images/Traditional-Hosting-Examples.webp)
+![GitHub repository settings showing GitHub Pages enabled for static site hosting]({{ site.baseurl }}/assets/images/Traditional-Hosting-Examples.webp)
 
 ---
 

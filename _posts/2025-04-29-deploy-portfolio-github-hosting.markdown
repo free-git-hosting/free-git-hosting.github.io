@@ -83,7 +83,7 @@ git config --global user.email "your@email.com"
 
 ### Step 3: Create a New Repository
 
-![Creating a new GitHub repository for portfolio deployment]({{ site.baseurl }}assets/images/Create-a-New-Repository.webp)
+![Creating a new GitHub repository for portfolio deployment]({{ site.baseurl }}/assets/images/Create-a-New-Repository.webp)
 
 1. Log into GitHub
 2. Click "+" > "New repository"
@@ -112,7 +112,7 @@ git push origin main
 
 ## Step 5: Configure GitHub Pages
 
-![A personal portfolio successfully deployed via GitHub Pages]({{ site.baseurl }}assets/images/Configure-Deploy-GitHub-Pages.webp)
+![A personal portfolio successfully deployed via GitHub Pages]({{ site.baseurl }}/assets/images/Configure-Deploy-GitHub-Pages.webp)
 
 1. Go to repository settings
 2. Scroll to **Pages** section

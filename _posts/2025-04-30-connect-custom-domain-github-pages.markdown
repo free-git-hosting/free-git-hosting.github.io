@@ -36,7 +36,7 @@ GitHub Pages is a free hosting service that allows you to publish static website
 
 ## Choosing and Purchasing a Custom Domain
 
-![Screenshot of a GitHub repository with a standard Jekyll folder structure]({{ site.baseurl }}assets/images/Choosing-and-Purchasing-Custom-Domain.webp)
+![Screenshot of a GitHub repository with a standard Jekyll folder structure]({{ site.baseurl }}/assets/images/Choosing-and-Purchasing-Custom-Domain.webp)
 
 ### Step-by-Step Guide to Domain Purchase
 1. Choose a domain registrar (e.g., Namecheap, GoDaddy, Google Domains).

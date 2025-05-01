@@ -87,7 +87,7 @@ git push origin main
 
 ## Enabling GitHub Pages
 
-![GitHub Pages settings page showing the source branch and custom domain configuration]({{ site.baseurl }}assets/images/Configure-GitHub-Pages.webp)
+![GitHub Pages settings page showing the source branch and custom domain configuration]({{ site.baseurl }}/assets/images/Configure-GitHub-Pages.webp)
 
 ### Step 6: Configure GitHub Pages
 - Go to your repository settings
@@ -136,7 +136,7 @@ Include styles and scripts:
 - `/assets` for images and media
 - `/css`, `/js` for scripts and stylesheets
 
-![Recommended folder structure for a static website using GitHub hosting, including assets, css, and js folders]({{ site.baseurl }}assets/images/Organize-Folder-Structure.webp)
+![Recommended folder structure for a static website using GitHub hosting, including assets, css, and js folders]({{ site.baseurl }}/assets/images/Organize-Folder-Structure.webp)
 
 ## Connecting a Custom Domain
 

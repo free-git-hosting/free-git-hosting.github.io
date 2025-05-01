@@ -35,7 +35,7 @@ GitHub hosting refers to using GitHub’s infrastructure to host static websites
 
 ## Reason 1: Free and Easy Static Site Hosting
 
-![Example of a GitHub Actions workflow automating site deployment]({{ site.baseurl }}assets/images/Free-and-Easy-Static-Site-Hosting.webp)
+![Example of a GitHub Actions workflow automating site deployment]({{ site.baseurl }}/assets/images/Free-and-Easy-Static-Site-Hosting.webp)
 
 ### GitHub Pages for Static Websites
 GitHub Pages allows you to publish static websites directly from your repository. Ideal for portfolios, project demos, and documentation.

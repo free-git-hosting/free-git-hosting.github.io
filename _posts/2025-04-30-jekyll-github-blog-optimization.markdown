@@ -36,7 +36,7 @@ Jekyll is a static site generator written in Ruby that converts plain text files
 
 ## Setting Up Your First Jekyll Blog on GitHub
 
-![Screenshot of a GitHub repository with a standard Jekyll folder structure]({{ site.baseurl }}assets/images/Setting-Up-Your-First-Jekyll-Blog-on-GitHub.webp)
+![Screenshot of a GitHub repository with a standard Jekyll folder structure]({{ site.baseurl }}/assets/images/Setting-Up-Your-First-Jekyll-Blog-on-GitHub.webp)
 
 ### Step 1: Install Jekyll and Dependencies
 ```bash
