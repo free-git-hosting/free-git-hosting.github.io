@@ -4,7 +4,7 @@ title: "Optimizing SEO for Your GitHub-Hosted Site"
 categories: [SEO, GitHub, Web Development, GitHub Pages]
 tags: [github hosting, seo optimization, static site seo, jekyll seo, github pages tips]
 description: "Learn how to improve SEO for your GitHub-hosted website. Covers metadata, sitemaps, mobile performance, backlinks, and technical SEO."
-image: /images/featured_seo-for-github-hosted-sites.webp
+image: /assets/images/featured_seo-for-github-hosted-sites.webp
 featured: true
 ---
 
@@ -45,7 +45,7 @@ Structure your site with valuable, keyword-targeted blog posts and pages. Use in
 
 ### Metadata and Titles
 
-![Editing _config.yml file in Jekyll to set SEO metadata for a GitHub-hosted site.]({{ site.baseurl }}/images/Metadata-and-Titles.webp)
+![Editing _config.yml file in Jekyll to set SEO metadata for a GitHub-hosted site.]({{ site.baseurl }}/assets/images/Metadata-and-Titles.webp)
 
 #### Customizing Metadata in Jekyll
 Jekyll lets you manage metadata using the front matter. Here's an example:
@@ -78,7 +78,7 @@ permalink: /seo-optimization-guide/
 
 ## Sitemaps and Robots.txt
 
-![robots.txt and sitemap.xml setup for improving SEO of a static site hosted on GitHub Pages.]({{ site.baseurl }}/images/Sitemaps-and-Robots-txt.webp)
+![robots.txt and sitemap.xml setup for improving SEO of a static site hosted on GitHub Pages.]({{ site.baseurl }}/assets/images/Sitemaps-and-Robots-txt.webp)
 
 ### Adding a Sitemap
 Use the [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap) plugin to generate a `sitemap.xml`:

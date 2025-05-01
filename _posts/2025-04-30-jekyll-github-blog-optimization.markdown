@@ -4,7 +4,7 @@ title: "Mastering Jekyll: Enhance Your GitHub-Hosted Blog"
 categories: [Web Development, Blogging, GitHub Hosting]
 tags: [github hosting, jekyll, static site generator, blogging, web design]
 description: "Learn to master Jekyll for your GitHub-hosted blog. Optimize design, SEO, and performance with this easy step-by-step guide."
-image: /images/featured_jekyll-github-blog-optimization.webp
+image: /assets/images/featured_jekyll-github-blog-optimization.webp
 featured: false
 ---
 
@@ -36,7 +36,7 @@ Jekyll is a static site generator written in Ruby that converts plain text files
 
 ## Setting Up Your First Jekyll Blog on GitHub
 
-![Screenshot of a GitHub repository with a standard Jekyll folder structure]({{ site.baseurl }}/images/Setting-Up-Your-First-Jekyll-Blog-on-GitHub.webp)
+![Screenshot of a GitHub repository with a standard Jekyll folder structure]({{ site.baseurl }}/assets/images/Setting-Up-Your-First-Jekyll-Blog-on-GitHub.webp)
 
 ### Step 1: Install Jekyll and Dependencies
 ```bash

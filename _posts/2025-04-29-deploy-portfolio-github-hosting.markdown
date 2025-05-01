@@ -4,7 +4,7 @@ title: "Step-by-Step Tutorial: Deploying Your Portfolio with GitHub Hosting"
 categories: [Web Development, GitHub, Hosting, Portfolio]
 tags: [GitHub hosting, portfolio website, GitHub Pages, free website hosting, web development]
 description: "Launch your personal portfolio for free with GitHub hosting. This detailed guide walks you through every step with GitHub Pages."
-image: /images/featured_deploy-portfolio-github-hosting.webp
+image: /assets/images/featured_deploy-portfolio-github-hosting.webp
 featured: false
 ---
 
@@ -83,7 +83,7 @@ git config --global user.email "your@email.com"
 
 ### Step 3: Create a New Repository
 
-![Creating a new GitHub repository for portfolio deployment]({{ site.baseurl }}/images/Create-a-New-Repository.webp)
+![Creating a new GitHub repository for portfolio deployment]({{ site.baseurl }}/assets/images/Create-a-New-Repository.webp)
 
 1. Log into GitHub
 2. Click "+" > "New repository"
@@ -112,7 +112,7 @@ git push origin main
 
 ## Step 5: Configure GitHub Pages
 
-![A personal portfolio successfully deployed via GitHub Pages]({{ site.baseurl }}/images/Configure-Deploy-GitHub-Pages.webp)
+![A personal portfolio successfully deployed via GitHub Pages]({{ site.baseurl }}/assets/images/Configure-Deploy-GitHub-Pages.webp)
 
 1. Go to repository settings
 2. Scroll to **Pages** section

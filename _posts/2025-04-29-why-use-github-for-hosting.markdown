@@ -4,7 +4,7 @@ title: "Top 5 Reasons to Choose GitHub for Hosting Your Projects"
 categories: [Web Development, GitHub, Hosting]
 tags: [GitHub hosting, project hosting, static websites, developer tools, version control]
 meta_description: "Discover 5 compelling reasons to choose GitHub hosting for your development projects. Learn how GitHub boosts collaboration, security, and reach."
-image: /images/featured_why-use-github-for-hosting.webp
+image: /assets/images/featured_why-use-github-for-hosting.webp
 featured: false
 ---
 
@@ -35,7 +35,7 @@ GitHub hosting refers to using GitHub’s infrastructure to host static websites
 
 ## Reason 1: Free and Easy Static Site Hosting
 
-![Example of a GitHub Actions workflow automating site deployment]({{ site.baseurl }}/images/Free-and-Easy-Static-Site-Hosting.webp)
+![Example of a GitHub Actions workflow automating site deployment]({{ site.baseurl }}/assets/images/Free-and-Easy-Static-Site-Hosting.webp)
 
 ### GitHub Pages for Static Websites
 GitHub Pages allows you to publish static websites directly from your repository. Ideal for portfolios, project demos, and documentation.
