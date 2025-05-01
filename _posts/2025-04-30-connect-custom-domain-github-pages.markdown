@@ -4,7 +4,7 @@ title: "Integrating Custom Domains with GitHub Pages: A Complete Guide"
 categories: [Web Hosting, GitHub, Domains, Web Development, Jekyll]
 tags: [github hosting, custom domain setup, github pages, website deployment, DNS configuration]
 description: "Learn how to connect a custom domain with GitHub Pages. Step-by-step guide to GitHub hosting, DNS setup, HTTPS, and troubleshooting tips."
-image: /assets/images/featured_connect-custom-domain-github-pages.webp
+image: assets/images/featured_connect-custom-domain-github-pages.webp
 featured: false
 ---
 
@@ -36,7 +36,7 @@ GitHub Pages is a free hosting service that allows you to publish static website
 
 ## Choosing and Purchasing a Custom Domain
 
-![Screenshot of a GitHub repository with a standard Jekyll folder structure]({{ site.baseurl }}/assets/images/Choosing-and-Purchasing-Custom-Domain.webp)
+![Screenshot of a GitHub repository with a standard Jekyll folder structure]({{ site.baseurl }}assets/images/Choosing-and-Purchasing-Custom-Domain.webp)
 
 ### Step-by-Step Guide to Domain Purchase
 1. Choose a domain registrar (e.g., Namecheap, GoDaddy, Google Domains).
@@ -72,7 +72,7 @@ GitHub Pages is a free hosting service that allows you to publish static website
 ### Configuring DNS Records
 Navigate to your domain registrar’s DNS settings and add the following records:
 
-![Diagram showing DNS configuration with A and CNAME records pointing to GitHub Pages.]({{ site.baseurl }}/assets/images/Configuring-DNS-Records.webp)
+![Diagram showing DNS configuration with A and CNAME records pointing to GitHub Pages.]({{ site.baseurl }}assets/images/Configuring-DNS-Records.webp)
 
 #### For Apex Domains (e.g., example.com):
 - **Type**: A
