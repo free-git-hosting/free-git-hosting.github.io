@@ -1,8 +1,8 @@
 # Site
 name: Git Hosting
 title: free git hosting
-logo: '/assets/images/favicon.ico'
-favicon: '/assets/images/favicon.ico'
+# logo: assets/images/favicon.ico
+favicon: assets/images/favicon.ico
 description: Everything you need to know about free git hosting. Find Articles related to the best free git hosting services, including GitHub, GitLab, Bitbucket, and more. Compare features, pricing, and user reviews to find the perfect solution for your needs.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://free-git-hosting.github.io" # The base hostname & protocol for your site, e.g. http://example.com
