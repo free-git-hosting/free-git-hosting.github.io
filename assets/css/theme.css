@@ -207,6 +207,10 @@ a.text-dark:hover {
 	font-size:1.55rem;
     font-family:"Georgia","Times New Roman",serif;
 }
+.navbar-brand img.site-logo {
+	max-width:25px;
+	margin-top: -7px;
+}
 .dropdown-item {
 	font-weight:400;
 }
