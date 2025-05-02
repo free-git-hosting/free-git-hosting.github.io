@@ -32,7 +32,7 @@ This guide offers a complete, easy-to-understand walkthrough on how to set up an
 
 ## Getting Started with GitHub Actions
 
-![GitHub Actions workflow YAML file setup in VSCode]({{ site.baseurl }}/assets/images/Getting Started-with-GitHub-Actions.webp)
+![GitHub Actions workflow YAML file setup in VSCode]({{ site.baseurl }}/assets/images/Getting-Started-with-GitHub-Actions.webp)
 
 ### Understanding Workflows, Jobs, and Steps
 - **Workflow**: The overall automation triggered by GitHub events.
