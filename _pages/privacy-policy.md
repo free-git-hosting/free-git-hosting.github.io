@@ -1,43 +1,113 @@
 ---
+layout: page-sidebar
 title: "Privacy Policy"
-permalink: "/privacy-policy.html"
+description: "Read Free Git Hosting’s Privacy Policy to understand how we collect, use, and protect your information while you explore our Git hosting blogs."
+permalink: "/privacy-policy"
 ---
 
-"{{site.name}}" takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
 
+At **Free Git Hosting** (accessible at [https://free-git-hosting.github.io](https://free-git-hosting.github.io)), your privacy is important to us.  
+This Privacy Policy explains how we collect, use, and safeguard your personal information when you visit our website, interact with our content, or contact us.  
 
-#### Collection of Routine Information
+We encourage you to read this policy carefully to understand our practices and how they affect you as a visitor and reader.
 
-This website track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitor to this website. The information is tracked for routine administration and maintenance purposes.
+---
 
+## 1. Information We Collect
 
-#### Cookies
+We may collect the following types of data to improve your experience and site performance:
 
-Where necessary, this website uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+- **Personal Information:**  
+  Such as your name or email address when you voluntarily contact us through forms or comments.
+  
+- **Non-Personal Data:**  
+  Includes browser type, operating system, referral sources, device type, and pages visited.
+  
+- **Cookies and Analytics:**  
+  We use cookies to enhance your browsing experience and collect anonymous traffic data through tools like **Google Analytics** or **GitHub Pages insights**.
 
+---
 
-#### Advertisement and Other Third Parties
+## 2. How We Use Your Information
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track visitor activities on this website in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This website has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+The data we collect is used to:
 
+- Improve website performance, usability, and reader experience.  
+- Understand which topics, guides, and Git hosting resources interest our visitors most.  
+- Respond to your queries or messages through the contact form.  
+- Enhance SEO, security, and functionality of our GitHub-hosted blog.  
 
-#### Links to Third Party Websites
+We **do not sell, rent, or trade** your personal data to third parties.
 
-We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
+---
 
+## 3. Cookies Policy
 
-#### Security
+Cookies are small text files stored on your device to help analyze web traffic or remember your preferences.  
+You can choose to **disable cookies** through your browser settings, but doing so may affect certain functionalities of our site.
 
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+We may use:
 
+- **Essential cookies** – for basic functionality.  
+- **Analytics cookies** – to measure traffic and performance using services like Google Analytics.  
+- **Preference cookies** – to remember your settings for a smoother experience.
 
-#### Changes To This Privacy Policy
+---
 
-This Privacy Policy is effective and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+## 4. Third-Party Services
 
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+Our blog may contain links to third-party websites, such as:
 
+- GitHub Pages (for hosting and deployment)  
+- Google Analytics (for traffic measurement)  
+- Other Git hosting platforms like GitLab, Bitbucket, etc.  
 
-#### Contact Information
+These external sites operate independently and have their own privacy policies. We encourage you to review those policies before sharing any personal information.
 
-For any questions or concerns regarding the privacy policy, please [contact us here]({{site.baseurl}}/contact.html).
+---
+
+## 5. Data Security
+
+We take data protection seriously.  
+Although **Free Git Hosting** does not store sensitive user data, all site content is securely hosted via **GitHub Pages**, which uses modern HTTPS encryption and content delivery mechanisms to safeguard your browsing experience.
+
+---
+
+## 6. Your Rights
+
+Depending on your region, you may have rights under data protection laws (like GDPR or CCPA), including:
+
+- Requesting a copy of your personal data.  
+- Asking us to correct or delete data about you.  
+- Withdrawing consent for cookies or communication.  
+
+To exercise these rights, contact us via our [Contact Page](/contact-us/) or email.
+
+---
+
+## 7. Children’s Privacy
+
+Our content is intended for developers, students, and technology enthusiasts. We do not knowingly collect information from children under the age of 13.
+
+If you believe your child has provided any data, please contact us immediately, and we will remove it promptly.
+
+---
+
+## 8. Policy Updates
+
+We may occasionally update this Privacy Policy to reflect website changes, new regulations, or improvements in our data protection practices.  
+Any modifications will be posted on this page with an updated date.
+
+---
+
+## 9. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please reach out via our [Contact Page](/contact-us/) or email.
+
+---
+
+**Free Git Hosting**  
+Sharing insights, tutorials, and resources about GitHub Hosting and version control best practices.  
+Website: [https://free-git-hosting.github.io](https://free-git-hosting.github.io)
+
+---
