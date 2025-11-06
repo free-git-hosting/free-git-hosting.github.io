@@ -76,8 +76,7 @@ Navigation determines how users move across your GitHub-hosted site. A clear, pr
 
 Then reference it inside your layout using:
 
-```{% include nav.html %}
-```
+```{% include nav.html %}```
 
 This ensures that updating navigation only requires editing a single file.
 
