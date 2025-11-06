@@ -92,7 +92,7 @@ User experience is significantly influenced by readability and visual clarity. G
 * Maintain consistent spacing between sections.
 * Use headings strategically to guide scanning behavior.
 
-### Example `assets/css/style.css` Adjustments:
+<!-- ### Example `assets/css/style.css` Adjustments: -->
 
 ```
 body {
@@ -199,7 +199,7 @@ Tracking visitor behavior provides insight into how users navigate your site.
 
 ### Add Google Analytics
 
-Insert script into `_includes/head.html`.
+<!-- Insert script into `_includes/head.html`. -->
 
 ```
 <script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_ID"></script>
