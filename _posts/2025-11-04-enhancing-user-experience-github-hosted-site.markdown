@@ -61,9 +61,9 @@ Navigation determines how users move across your GitHub-hosted site. A clear, pr
 2. **Context-Based Navigation**: Additional sidebar menus for documentation.
 3. **Breadcrumb Navigation**: Helps users find their location within nested sections.
 
-### Example of a Navigation Include (`_includes/nav.html`):
+<!-- ### Example of a Navigation Include (`_includes/nav.html`): -->
 
-<!-- ```
+```
 <nav>
   <ul>
     <li><a href="/">Home</a></li>
@@ -72,11 +72,12 @@ Navigation determines how users move across your GitHub-hosted site. A clear, pr
     <li><a href="/pages/contact/">Contact</a></li>
   </ul>
 </nav>
-``` -->
+```
 
 Then reference it inside your layout using:
 
-```{% include nav.html %}```
+```{% include nav.html %}
+```
 
 This ensures that updating navigation only requires editing a single file.
 
@@ -93,7 +94,7 @@ User experience is significantly influenced by readability and visual clarity. G
 
 ### Example `assets/css/style.css` Adjustments:
 
-<!-- ```
+```
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
@@ -106,7 +107,7 @@ h1, h2, h3, h4 {
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
-``` -->
+```
 
 ## Optimizing Performance
 
@@ -157,9 +158,9 @@ Accessibility ensures your GitHub-hosted site works for all users.
 
 Example:
 
-<!-- ```
+```
 <a href="/pages/docs/" aria-label="Documentation">Docs</a>
-``` -->
+```
 
 ## Managing Version Control for Site Improvements
 
@@ -185,12 +186,12 @@ To improve visibility in search engines:
 
 ### Example Front Matter:
 
-<!-- ```
+```
 ---
 title: "Page Title"
 meta_description: "Clear description of what this page covers."
 ---
-``` -->
+```
 
 ## Using Analytics for UX Feedback
 
@@ -200,14 +201,14 @@ Tracking visitor behavior provides insight into how users navigate your site.
 
 Insert script into `_includes/head.html`.
 
-<!-- ```
+```
 <script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_ID"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
   gtag('config', 'YOUR_ID');
 </script>
-``` -->
+```
 
 ## Conclusion
 
