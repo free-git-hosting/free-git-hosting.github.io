@@ -10,7 +10,7 @@ IMAGES_DIR = "assets/images"
 SITE_DOMAIN = "https://ecommercemart.github.io"
 
 # AI Models
-TEXT_MODEL = "gemini-2.5-flash"
+TEXT_MODEL = "gemini-2.0-flash"
 FREEPIK_ENDPOINT = "https://api.freepik.com/v1/ai/text-to-image/flux-dev"
 
 # Generation settings
@@ -23,7 +23,7 @@ IMAGE_MAX_HEIGHT = 1080
 OPTIMIZE_IMAGE = True
 
 # Timing
-WAIT_TIME_BEFORE_INDEXING = 180  # seconds (3 minutes)
+WAIT_TIME_BEFORE_INDEXING = 0  # seconds (Removed wait time for faster workflow)
 
 # API Keys (from environment)
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")

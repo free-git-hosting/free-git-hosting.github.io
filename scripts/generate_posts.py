@@ -1,5 +1,6 @@
 """Main script to generate blog posts automatically"""
 import os
+import sys
 import time
 import datetime
 
@@ -122,8 +123,8 @@ def main():
             
             posts_generated += 1
             
-            # Step 5: Wait before indexing
-            if post_num == POSTS_PER_RUN or post_num == posts_generated:
+            # Step 5: Wait before indexing (Skipped for faster committing)
+            if False:
                 print(f"\n{'=' * 60}")
                 print(f"Step 5: Waiting {WAIT_TIME_BEFORE_INDEXING // 60} minutes")
                 print("=" * 60)
@@ -209,11 +210,7 @@ def main():
                 except Exception as e:
                     print(f"⚠️ Push notification failed (non-critical): {e}")
             
-            print(f"\n{'=' * 60}")
-            print("Step 11: Removing Keyword from File")
-            print("=" * 60)
-            
-            # Step 12: Remove keyword after success
+            # Step 10: Remove keyword after success
             print(f"\n{'=' * 60}")
             print("Step 10: Removing Keyword from File")
             print("=" * 60)
@@ -232,6 +229,10 @@ def main():
     print("=" * 60)
     print(f"✅ Posts generated: {posts_generated}")
     print(f"📊 Keywords remaining: {get_keywords_count()}")
+    
+    if posts_generated == 0:
+        print("\n❌ No posts generated. Check model settings and API keys.")
+        sys.exit(1)
 
 
 if __name__ == "__main__":
