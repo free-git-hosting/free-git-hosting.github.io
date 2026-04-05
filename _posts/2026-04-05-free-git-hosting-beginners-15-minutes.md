@@ -1,17 +1,10 @@
 ---
+layout: post
 title: "Free Git Hosting for Beginners: Zero to Live Website in 15 Minutes"
 description: "New to Git, but want your website live fast? Discover the best free Git hosting for beginners and easily deploy your project from zero in just 15 minutes."
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true 
-toc_sticky: true 
-toc_icon: "list-ul"
-tags: [free git hosting for beginners]
+image: assets/images/free-git-hosting-beginners-15-minutes.webp
 featured: false
-image: '/assets/images/free-git-hosting-beginners-15-minutes.webp'
+author: CodingRhodes
 ---
 Ready to get your very own website live without spending a single penny? You've come to the right place! Imagine building and publishing your personal project or portfolio website super fast, even if you're just starting out. This guide will show you exactly how to go from zero to a live website in just about 15 minutes using **free Git hosting for beginners**.
 

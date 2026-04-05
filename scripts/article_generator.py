@@ -78,17 +78,9 @@ def create_custom_front_matter(title, focus_kw, permalink):
     front_matter = f"""---
 title: "{escaped_title}"
 description: "{description}"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true 
-toc_sticky: true 
-toc_icon: "list-ul"
-tags: [{focus_kw}]
+author: CodingRhodes
 featured: false
-image: '/assets/images/{permalink}.webp'
+image: assets/images/{permalink}.webp
 ---"""
        
     return front_matter
