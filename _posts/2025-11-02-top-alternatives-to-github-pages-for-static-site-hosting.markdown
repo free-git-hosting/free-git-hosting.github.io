@@ -197,6 +197,31 @@ Best for developers who want a **no-frills free static hosting option** without 
 
 ---
 
+## **7. harvis: Zero-Setup Static Hosting**
+
+### **Overview**
+[harvis](https://harvis.dev) takes the opposite approach to Git-integrated platforms: there is nothing to connect and nothing to configure. You run `npx harvis` in any folder (or drag the folder into the browser) and the files are live at their own harvis.dev address in a couple of seconds.
+
+### **Key Features**
+- Deploy with one command (`npx harvis`) or browser drag-and-drop — no account required to publish
+- Anonymous deploys with a private claim link, so you can attach the site to an account later
+- Built-in contact forms for static sites (one HTML attribute)
+- HTTP API and an MCP server for AI-agent deploys
+
+### **Why It's Better Than GitHub Pages**
+No repository, build pipeline, or configuration is needed — you publish the files you already have, and re-running the same command updates the site in place.
+
+### **Free Plan Highlights**
+- 1 GB storage
+- 100k requests per month
+- 50 deploys per month
+
+### **Downsides**
+- Static files only — no serverless functions
+- No Git integration; deploys are push-from-CLI rather than build-on-commit
+
+---
+
 ## **Feature Comparison Table**
 
 | Platform | Git Integration | Serverless Support | Free SSL | Bandwidth | Best For |
@@ -207,6 +232,7 @@ Best for developers who want a **no-frills free static hosting option** without 
 | **Cloudflare Pages** | Yes | Yes (via Workers) | Yes | Unlimited | High-traffic static sites |
 | **Render** | Yes | Yes | Yes | 100 GB/month | Full-stack developers |
 | **Surge** | No | No | Yes | Unlimited | Quick static deployments |
+| **harvis** | No (CLI push) | No | Yes | 100k requests/month | Zero-setup instant publishing |
 
 ---
 
